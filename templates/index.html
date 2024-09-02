@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developer Console</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #34495e;
+            margin-bottom: 30px;
+        }
+
+        #log-container {
+            width: 100%;
+            max-width: 800px;
+            height: 400px;
+            border: 1px solid #dcdcdc;
+            padding: 10px;
+            overflow-y: auto;
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            margin: 0 auto 20px auto;
+        }
+
+        #log-container::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        #log-container::-webkit-scrollbar-track {
+            background: #34495e;
+            border-radius: 8px;
+        }
+
+        #log-container::-webkit-scrollbar-thumb {
+            background-color: #3498db;
+            border-radius: 8px;
+            border: 2px solid #34495e;
+        }
+
+        .white { color: #ecf0f1; }
+        .yellow { color: #f1c40f; }
+        .red { color: #e74c3c; }
+
+        .button-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 850px;
+            margin: 0 auto;
+        }
+
+        button {
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            color: white;
+            font-size: 16px;
+            transition: background-color 0.3s;
+            flex: 1;
+            margin: 0 10px;
+        }
+
+        .btn-clear {
+            background-color: #e74c3c;
+        }
+        .btn-copy {
+            background-color: #3498db;
+        }
+
+        button:hover {
+            opacity: 0.8;
+        }
+
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 60px;
+            height: 34px;
+        }
+
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 34px;
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 26px;
+            width: 26px;
+            left: 4px;
+            bottom: 4px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+
+        input:checked + .slider {
+            background-color: #2ecc71;
+        }
+
+        input:checked + .slider:before {
+            transform: translateX(26px);
+        }
+    </style>
+    <script src="https://cdn.socket.io/4.0.1/socket.io.min.js"></script>
+</head>
+<body>
+    <h1>Developer Console</h1>
+    <div id="log-container">
+        {% for log in logs %}
+            <div class="{{ log.type }}">[{{ log.time }}] {{ log.message }}</div>
+        {% endfor %}
+    </div>
+    <div class="button-container">
+        <button class="btn-clear" onclick="clearLog()">Clear Log</button>
+        <button class="btn-copy" onclick="copyLog()">Copy Full Log</button>
+        <label class="switch">
+            <input type="checkbox" id="autoScrollToggle" checked>
+            <span class="slider"></span>
+        </label>
+    </div>
+    <script>
+        const socket = io();
+        let autoScroll = true;
+        const toggle = document.getElementById('autoScrollToggle');
+
+        socket.on('new_log', (log) => {
+            const logContainer = document.getElementById('log-container');
+            const logEntry = document.createElement('div');
+            logEntry.className = log.type;
+            logEntry.textContent = `[${log.time}] ${log.message}`;
+            logContainer.appendChild(logEntry);
+            if (autoScroll) {
+                logContainer.scrollTop = logContainer.scrollHeight;
+            }
+        });
+
+        socket.on('clear_logs', () => {
+            document.getElementById('log-container').innerHTML = '';
+        });
+
+        function clearLog() {
+            fetch('/clear', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        document.getElementById('log-container').innerHTML = '';
+                    }
+                });
+        }
+
+        function copyLog() {
+            const logContainer = document.getElementById('log-container');
+            const range = document.createRange();
+            range.selectNode(logContainer);
+            window.getSelection().removeAllRanges();
+            window.getSelection().addRange(range);
+            document.execCommand('copy');
+            window.getSelection().removeAllRanges();
+            alert('Logs copied to clipboard!');
+        }
+
+        toggle.addEventListener('change', () => {
+            autoScroll = toggle.checked;
+        });
+    </script>
+</body>
+</html>
