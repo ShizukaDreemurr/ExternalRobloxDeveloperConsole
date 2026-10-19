@@ -1,0 +1,2252 @@
+[
+ {
+  "id": "q06-01",
+  "quiz": 6,
+  "number": 1,
+  "type": "single",
+  "prompt": "Mục tiêu chính của quản trị nhân sự là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tăng doanh thu bán hàng"
+   },
+   {
+    "key": "B",
+    "text": "Tăng sản lượng sản xuất"
+   },
+   {
+    "key": "C",
+    "text": "Đảm bảo đủ nhân lực phù hợp"
+   },
+   {
+    "key": "D",
+    "text": "Giảm chi phí marketing"
+   }
+  ]
+ },
+ {
+  "id": "q06-02",
+  "quiz": 6,
+  "number": 2,
+  "type": "single",
+  "prompt": "Nâng cao năng suất lao động sẽ dẫn đến:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Giảm chất lượng công việc"
+   },
+   {
+    "key": "B",
+    "text": "Tăng chi phí"
+   },
+   {
+    "key": "C",
+    "text": "Tăng lợi nhuận"
+   },
+   {
+    "key": "D",
+    "text": "Giảm hiệu quả kinh doanh"
+   }
+  ]
+ },
+ {
+  "id": "q06-03",
+  "quiz": 6,
+  "number": 3,
+  "type": "single",
+  "prompt": "Sàng lọc hồ sơ nhằm mục đích gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tăng số lượng ứng viên"
+   },
+   {
+    "key": "B",
+    "text": "Tăng chi phí"
+   },
+   {
+    "key": "C",
+    "text": "Loại bỏ ứng viên không phù hợp"
+   },
+   {
+    "key": "D",
+    "text": "Giảm thời gian làm việc"
+   }
+  ]
+ },
+ {
+  "id": "q06-04",
+  "quiz": 6,
+  "number": 4,
+  "type": "single",
+  "prompt": "Động lực bên ngoài đến từ đâu?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Suy nghĩ cá nhân"
+   },
+   {
+    "key": "B",
+    "text": "Môi trường làm việc"
+   },
+   {
+    "key": "C",
+    "text": "Mục tiêu cá nhân"
+   },
+   {
+    "key": "D",
+    "text": "Tư duy"
+   }
+  ]
+ },
+ {
+  "id": "q06-05",
+  "quiz": 6,
+  "number": 5,
+  "type": "single",
+  "prompt": "Theo thuyết hai nhân tố của Herzberg, nhân tố duy trì liên quan đến điều gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Sự thỏa mãn"
+   },
+   {
+    "key": "B",
+    "text": "Cơ hội phát triển"
+   },
+   {
+    "key": "C",
+    "text": "Ý nghĩa công việc"
+   },
+   {
+    "key": "D",
+    "text": "Sự bất mãn"
+   }
+  ]
+ },
+ {
+  "id": "q06-06",
+  "quiz": 6,
+  "number": 6,
+  "type": "single",
+  "prompt": "Phỏng vấn giúp đánh giá điều gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Trình độ chuyên môn và kinh nghiệm làm việc"
+   },
+   {
+    "key": "B",
+    "text": "Khả năng hoàn thành KPI và doanh thu dự kiến"
+   },
+   {
+    "key": "C",
+    "text": "Mức độ hiểu biết về doanh nghiệp"
+   },
+   {
+    "key": "D",
+    "text": "Kỹ năng, thái độ và mức độ phù hợp với công việc"
+   }
+  ]
+ },
+ {
+  "id": "q06-07",
+  "quiz": 6,
+  "number": 7,
+  "type": "single",
+  "prompt": "Theo thuyết hai nhân tố của Herzberg, nhân tố động viên liên quan đến điều gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Chi phí"
+   },
+   {
+    "key": "B",
+    "text": "Sự thỏa mãn"
+   },
+   {
+    "key": "C",
+    "text": "Kỷ luật"
+   },
+   {
+    "key": "D",
+    "text": "Sự bất mãn"
+   }
+  ]
+ },
+ {
+  "id": "q06-08",
+  "quiz": 6,
+  "number": 8,
+  "type": "single",
+  "prompt": "Một doanh nghiệp có tỷ lệ nghỉ việc cao do thiếu cơ hội phát triển. Giải pháp phù hợp nhất là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tăng cường chính sách đãi ngộ và phúc lợi cho nhân viên"
+   },
+   {
+    "key": "B",
+    "text": "Xây dựng lộ trình phát triển nghề nghiệp rõ ràng"
+   },
+   {
+    "key": "C",
+    "text": "Tổ chức các chương trình đào tạo nâng cao kỹ năng"
+   },
+   {
+    "key": "D",
+    "text": "Cải thiện môi trường làm việc và văn hóa doanh nghiệp"
+   }
+  ]
+ },
+ {
+  "id": "q06-09",
+  "quiz": 6,
+  "number": 9,
+  "type": "single",
+  "prompt": "Nếu doanh nghiệp không tạo động lực cho nhân viên, hậu quả chủ yếu là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tăng tỷ lệ nghỉ việc của nhân viên"
+   },
+   {
+    "key": "B",
+    "text": "Giảm mức độ gắn kết với công việc"
+   },
+   {
+    "key": "C",
+    "text": "Giảm mức độ hài lòng trong công việc"
+   },
+   {
+    "key": "D",
+    "text": "Giảm hiệu quả và năng suất làm việc"
+   }
+  ]
+ },
+ {
+  "id": "q06-10",
+  "quiz": 6,
+  "number": 10,
+  "type": "single",
+  "prompt": "Doanh nghiệp muốn tăng năng suất nhanh nhưng chi phí hạn chế. Giải pháp tối ưu nhất là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Ứng dụng công cụ hoặc công nghệ hỗ trợ công việc"
+   },
+   {
+    "key": "B",
+    "text": "Đào tạo nâng cao kỹ năng cho nhân viên hiện có"
+   },
+   {
+    "key": "C",
+    "text": "Tái phân bổ công việc và tối ưu quy trình hiện tại"
+   },
+   {
+    "key": "D",
+    "text": "Tăng cường giám sát và kiểm soát hiệu suất làm việc"
+   }
+  ]
+ },
+ {
+  "id": "q06-11",
+  "quiz": 6,
+  "number": 11,
+  "type": "single",
+  "prompt": "Một doanh nghiệp bán lẻ cần đào tạo nhanh cho nhân viên mới về quy trình bán hàng và văn hóa doanh nghiệp với ngân sách hạn chế. Hình thức đào tạo nào phù hợp nhất?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tổ chức đào tạo nội bộ tại doanh nghiệp"
+   },
+   {
+    "key": "B",
+    "text": "Cử nhân viên tham gia khóa học chuyên sâu dài hạn"
+   },
+   {
+    "key": "C",
+    "text": "Đăng ký khóa học xu hướng thị trường quốc tế"
+   },
+   {
+    "key": "D",
+    "text": "Thuê chuyên gia bên ngoài đào tạo"
+   }
+  ]
+ },
+ {
+  "id": "q06-12",
+  "quiz": 6,
+  "number": 12,
+  "type": "single",
+  "prompt": "Hoạt động nào KHÔNG nên thuê ngoài?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Kế toán"
+   },
+   {
+    "key": "B",
+    "text": "Bán hàng"
+   },
+   {
+    "key": "C",
+    "text": "Marketing"
+   },
+   {
+    "key": "D",
+    "text": "Dịch vụ pháp lý"
+   }
+  ]
+ },
+ {
+  "id": "q06-13",
+  "quiz": 6,
+  "number": 13,
+  "type": "single",
+  "prompt": "Thuê ngoài (outsourcing) là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Sử dụng nhân sự nội bộ để thực hiện công việc"
+   },
+   {
+    "key": "B",
+    "text": "Hợp tác giữa các phòng ban trong doanh nghiệp"
+   },
+   {
+    "key": "C",
+    "text": "Sử dụng dịch vụ từ bên thứ ba để thực hiện công việc"
+   },
+   {
+    "key": "D",
+    "text": "Thuê cá nhân bên ngoài làm việc ngắn hạn"
+   }
+  ]
+ },
+ {
+  "id": "q06-14",
+  "quiz": 6,
+  "number": 14,
+  "type": "single",
+  "prompt": "Một công ty ghi nhận nhiều nhân viên phàn nàn về quy định thay đổi liên tục nhưng không được thông báo rõ ràng và cách quản lý giám sát quá chặt chẽ. Những yếu tố này chủ yếu liên quan đến vấn đề nào sau đây?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Các nhân tố duy trì gây bất mãn trong công việc"
+   },
+   {
+    "key": "B",
+    "text": "Các nhân tố động viên không tạo sự hài lòng"
+   },
+   {
+    "key": "C",
+    "text": "Thiếu hoạt động đào tạo nâng cao chuyên môn"
+   },
+   {
+    "key": "D",
+    "text": "Nhu cầu của nhân viên không được thỏa mãn"
+   }
+  ]
+ },
+ {
+  "id": "q06-15",
+  "quiz": 6,
+  "number": 15,
+  "type": "single",
+  "prompt": "Động lực bên trong của nhân viên xuất phát từ đâu?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Lương"
+   },
+   {
+    "key": "B",
+    "text": "Suy nghĩ tích cực"
+   },
+   {
+    "key": "C",
+    "text": "Điều kiện làm việc"
+   },
+   {
+    "key": "D",
+    "text": "Chính sách công ty"
+   }
+  ]
+ },
+ {
+  "id": "q07-01",
+  "quiz": 7,
+  "number": 1,
+  "type": "single",
+  "prompt": "Vốn chủ sở hữu được xác định bằng:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tổng tài sản + Tổng nợ phải trả"
+   },
+   {
+    "key": "B",
+    "text": "Tổng tài sản - Tổng nợ phải trả"
+   },
+   {
+    "key": "C",
+    "text": "Doanh thu - Chi phí"
+   },
+   {
+    "key": "D",
+    "text": "Tổng nợ phải trả - Tổng tài sản"
+   }
+  ]
+ },
+ {
+  "id": "q07-02",
+  "quiz": 7,
+  "number": 2,
+  "type": "single",
+  "prompt": "Lợi nhuận kế toán trước thuế được xác định bằng:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Lợi nhuận + thuế TNDN"
+   },
+   {
+    "key": "B",
+    "text": "Lợi nhuận thuần từ HĐKD + kết quả hoạt động khác"
+   },
+   {
+    "key": "C",
+    "text": "Lợi nhuận gộp + lợi nhuận khác"
+   },
+   {
+    "key": "D",
+    "text": "Lợi nhuận gộp + lợi nhuận hoạt động tài chính"
+   }
+  ]
+ },
+ {
+  "id": "q07-03",
+  "quiz": 7,
+  "number": 3,
+  "type": "multi",
+  "prompt": "Các khoản nào là khoản giảm trừ doanh thu?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Hàng bán bị trả lại"
+   },
+   {
+    "key": "B",
+    "text": "Chiết khấu thương mại"
+   },
+   {
+    "key": "C",
+    "text": "Giảm giá hàng bán"
+   },
+   {
+    "key": "D",
+    "text": "Các loại thuế không được hoàn lại"
+   }
+  ]
+ },
+ {
+  "id": "q07-04",
+  "quiz": 7,
+  "number": 4,
+  "type": "single",
+  "prompt": "Doanh thu tăng nhưng chi phí tăng nhanh hơn doanh thu thì lợi nhuận sẽ:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Lợi nhuận tăng"
+   },
+   {
+    "key": "B",
+    "text": "Tăng tài sản"
+   },
+   {
+    "key": "C",
+    "text": "Không thay đổi"
+   },
+   {
+    "key": "D",
+    "text": "Lợi nhuận giảm"
+   }
+  ]
+ },
+ {
+  "id": "q07-05",
+  "quiz": 7,
+  "number": 5,
+  "type": "single",
+  "prompt": "Thuế TNDN được tính bằng khoản nào nhân với thuế suất thuế TNDN?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Lợi nhuận gộp"
+   },
+   {
+    "key": "B",
+    "text": "Lợi nhuận thuần"
+   },
+   {
+    "key": "C",
+    "text": "Lợi nhuận sau thuế"
+   },
+   {
+    "key": "D",
+    "text": "Lợi nhuận trước thuế"
+   }
+  ]
+ },
+ {
+  "id": "q07-06",
+  "quiz": 7,
+  "number": 6,
+  "type": "multi",
+  "prompt": "Hệ thống kế toán không hoàn thiện sẽ dẫn đến hậu quả nào?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Giảm khả năng kiểm soát và theo dõi tình hình tài chính"
+   },
+   {
+    "key": "B",
+    "text": "Gặp khó khăn trong việc tuân thủ quy định pháp lý"
+   },
+   {
+    "key": "C",
+    "text": "Thiếu minh bạch và độ tin cậy"
+   },
+   {
+    "key": "D",
+    "text": "Khó khăn trong việc ra quyết định quản lý và kinh doanh"
+   }
+  ]
+ },
+ {
+  "id": "q07-07",
+  "quiz": 7,
+  "number": 7,
+  "type": "multi",
+  "prompt": "Vai trò của hệ thống kế toán là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Quản lý trực tiếp hoạt động sản xuất"
+   },
+   {
+    "key": "B",
+    "text": "Cung cấp thông tin tài chính phục vụ ra quyết định"
+   },
+   {
+    "key": "C",
+    "text": "Kiểm soát và quản lý chi phí trong doanh nghiệp"
+   },
+   {
+    "key": "D",
+    "text": "Ghi nhận và phản ánh các giao dịch tài chính nội bộ phát sinh"
+   }
+  ]
+ },
+ {
+  "id": "q07-08",
+  "quiz": 7,
+  "number": 8,
+  "type": "single",
+  "prompt": "Giải pháp nào giúp cải thiện tình hình tài chính ngắn hạn?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Kiểm soát dòng tiền và tối ưu các khoản thu, chi"
+   },
+   {
+    "key": "B",
+    "text": "Tái cấu trúc các khoản nợ"
+   },
+   {
+    "key": "C",
+    "text": "Tăng cường đầu tư mở rộng"
+   },
+   {
+    "key": "D",
+    "text": "Tăng cường quản lý và kiểm soát chi phí"
+   }
+  ]
+ },
+ {
+  "id": "q07-09",
+  "quiz": 7,
+  "number": 9,
+  "type": "single",
+  "prompt": "Chi phí bán hàng bao gồm:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Chi phí bồi thường"
+   },
+   {
+    "key": "B",
+    "text": "Chi phí quảng cáo và xúc tiến bán hàng"
+   },
+   {
+    "key": "C",
+    "text": "Góp vốn liên doanh"
+   },
+   {
+    "key": "D",
+    "text": "Chi phí lương bộ phận quản lý doanh nghiệp"
+   }
+  ]
+ },
+ {
+  "id": "q07-10",
+  "quiz": 7,
+  "number": 10,
+  "type": "single",
+  "prompt": "Doanh thu là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tổng chi phí phát sinh"
+   },
+   {
+    "key": "B",
+    "text": "Tổng giá trị tiền thu được từ bán hàng và cung cấp dịch vụ"
+   },
+   {
+    "key": "C",
+    "text": "Phần chênh lệch doanh thu và chi phí"
+   },
+   {
+    "key": "D",
+    "text": "Tổng nguồn vốn"
+   }
+  ]
+ },
+ {
+  "id": "q07-11",
+  "quiz": 7,
+  "number": 11,
+  "type": "single",
+  "prompt": "Doanh thu thuần được xác định bằng:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Doanh thu * giá bán"
+   },
+   {
+    "key": "B",
+    "text": "Doanh thu / chi phí"
+   },
+   {
+    "key": "C",
+    "text": "Doanh thu - các khoản giảm trừ"
+   },
+   {
+    "key": "D",
+    "text": "Doanh thu + chi phí"
+   }
+  ]
+ },
+ {
+  "id": "q07-12",
+  "quiz": 7,
+  "number": 12,
+  "type": "single",
+  "prompt": "Lợi nhuận gộp được xác định bằng:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Doanh thu thuần - Giá vốn hàng bán"
+   },
+   {
+    "key": "B",
+    "text": "Doanh thu hoạt động tài chính - chi phí hoạt động tài chính"
+   },
+   {
+    "key": "C",
+    "text": "Doanh thu thuần - chi phí quản lý doanh nghiệp"
+   },
+   {
+    "key": "D",
+    "text": "Doanh thu thuần - chi phí bán hàng"
+   }
+  ]
+ },
+ {
+  "id": "q07-13",
+  "quiz": 7,
+  "number": 13,
+  "type": "single",
+  "prompt": "Báo cáo tình hình tài chính phản ánh:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Doanh thu, chi phí, lợi nhuận"
+   },
+   {
+    "key": "B",
+    "text": "Lợi nhuận"
+   },
+   {
+    "key": "C",
+    "text": "Doanh thu, chi phí"
+   },
+   {
+    "key": "D",
+    "text": "Tài sản và nguồn vốn"
+   }
+  ]
+ },
+ {
+  "id": "q07-14",
+  "quiz": 7,
+  "number": 14,
+  "type": "single",
+  "prompt": "Báo cáo tài chính dùng để:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Quản lý và kiểm soát nhân sự"
+   },
+   {
+    "key": "B",
+    "text": "Hỗ trợ xây dựng chiến lược marketing và bán hàng"
+   },
+   {
+    "key": "C",
+    "text": "Phản ánh tình hình tài chính và kết quả hoạt động"
+   },
+   {
+    "key": "D",
+    "text": "Điều hành trực tiếp hoạt động sản xuất"
+   }
+  ]
+ },
+ {
+  "id": "q07-15",
+  "quiz": 7,
+  "number": 15,
+  "type": "multi",
+  "prompt": "Vì sao nhà quản trị cần hiểu kiến thức kế toán?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Để hiểu tình hình hoạt động và tài chính"
+   },
+   {
+    "key": "B",
+    "text": "Thiết kế hệ thống phần mềm kế toán"
+   },
+   {
+    "key": "C",
+    "text": "Để tự thực hiện toàn bộ nghiệp vụ kiểm toán thuế"
+   },
+   {
+    "key": "D",
+    "text": "Diễn giải các thông tin cốt lõi từ hệ thống kế toán"
+   }
+  ]
+ },
+ {
+  "id": "q08-01",
+  "quiz": 8,
+  "number": 1,
+  "type": "single",
+  "prompt": "Biên lợi nhuận ròng là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tỷ lệ tài sản trên nguồn vốn"
+   },
+   {
+    "key": "B",
+    "text": "Tỷ lệ chi phí trên tổng doanh thu"
+   },
+   {
+    "key": "C",
+    "text": "Tỷ lệ doanh thu trên tổng tài sản"
+   },
+   {
+    "key": "D",
+    "text": "Tỷ lệ lợi nhuận sau thuế trên doanh thu"
+   }
+  ]
+ },
+ {
+  "id": "q08-02",
+  "quiz": 8,
+  "number": 2,
+  "type": "single",
+  "prompt": "Chi phí biến đổi là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Chi phí không thay đổi theo mức độ hoạt động"
+   },
+   {
+    "key": "B",
+    "text": "Chi phí không liên quan trực tiếp đến hoạt động SXKD"
+   },
+   {
+    "key": "C",
+    "text": "Chi phí được phân bổ cố định cho từng kỳ kế toán"
+   },
+   {
+    "key": "D",
+    "text": "Chi phí thay đổi theo mức độ hoạt động hoặc sản lượng"
+   }
+  ]
+ },
+ {
+  "id": "q08-03",
+  "quiz": 8,
+  "number": 3,
+  "type": "single",
+  "prompt": "Tỷ lệ nợ phản ánh:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Mức độ sử dụng nợ trong cơ cấu nguồn vốn"
+   },
+   {
+    "key": "B",
+    "text": "Mức độ kiểm soát chi phí"
+   },
+   {
+    "key": "C",
+    "text": "Khả năng sinh lời từ hoạt động kinh doanh"
+   },
+   {
+    "key": "D",
+    "text": "Quy mô doanh thu"
+   }
+  ]
+ },
+ {
+  "id": "q08-04",
+  "quiz": 8,
+  "number": 4,
+  "type": "multi",
+  "prompt": "Vai trò của quản trị chi phí là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tăng cường đầu tư mở rộng quy mô"
+   },
+   {
+    "key": "B",
+    "text": "Đánh giá hiệu quả hoạt động của bộ phận nhân sự"
+   },
+   {
+    "key": "C",
+    "text": "Lập kế hoạch và phân bổ nguồn lực tài chính"
+   },
+   {
+    "key": "D",
+    "text": "Kiểm soát và tối ưu hóa chi phí"
+   }
+  ]
+ },
+ {
+  "id": "q08-05",
+  "quiz": 8,
+  "number": 5,
+  "type": "single",
+  "prompt": "Số dư đảm phí giúp:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Xác định tổng tài sản"
+   },
+   {
+    "key": "B",
+    "text": "Đo lường mức độ tăng trưởng doanh thu"
+   },
+   {
+    "key": "C",
+    "text": "Kiểm soát các khoản chi phí tài chính"
+   },
+   {
+    "key": "D",
+    "text": "Đánh giá khả năng sinh lời và ra quyết định kinh doanh"
+   }
+  ]
+ },
+ {
+  "id": "q08-06",
+  "quiz": 8,
+  "number": 6,
+  "type": "single",
+  "prompt": "Biên lợi nhuận gộp giảm khi:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Chi phí quản lý doanh nghiệp giảm"
+   },
+   {
+    "key": "B",
+    "text": "Cơ cấu nguồn vốn thay đổi"
+   },
+   {
+    "key": "C",
+    "text": "Giá vốn hàng bán tăng nhanh hơn doanh thu"
+   },
+   {
+    "key": "D",
+    "text": "Doanh thu tăng nhanh hơn giá vốn hàng bán"
+   }
+  ]
+ },
+ {
+  "id": "q08-07",
+  "quiz": 8,
+  "number": 7,
+  "type": "single",
+  "prompt": "Chỉ số thanh toán nhanh được tính bằng cách loại trừ:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tiền mặt"
+   },
+   {
+    "key": "B",
+    "text": "Doanh thu"
+   },
+   {
+    "key": "C",
+    "text": "Hàng tồn kho"
+   },
+   {
+    "key": "D",
+    "text": "Nợ phải trả"
+   }
+  ]
+ },
+ {
+  "id": "q08-08",
+  "quiz": 8,
+  "number": 8,
+  "type": "single",
+  "prompt": "Chi phí nào là chi phí biến đổi?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Thuê nhà"
+   },
+   {
+    "key": "B",
+    "text": "Nguyên vật liệu"
+   },
+   {
+    "key": "C",
+    "text": "Khấu hao"
+   },
+   {
+    "key": "D",
+    "text": "Bảo hiểm"
+   }
+  ]
+ },
+ {
+  "id": "q08-09",
+  "quiz": 8,
+  "number": 9,
+  "type": "single",
+  "prompt": "Số dư đảm phí được sử dụng để:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Đánh giá mức độ tăng trưởng doanh thu"
+   },
+   {
+    "key": "B",
+    "text": "Xác định tổng tài sản"
+   },
+   {
+    "key": "C",
+    "text": "Kiểm soát các khoản chi phí tài chính phát sinh"
+   },
+   {
+    "key": "D",
+    "text": "Trang trải chi phí cố định và tạo lợi nhuận"
+   }
+  ]
+ },
+ {
+  "id": "q08-10",
+  "quiz": 8,
+  "number": 10,
+  "type": "single",
+  "prompt": "Khi số dư đảm phí lớn hơn chi phí cố định, doanh nghiệp:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Lỗ"
+   },
+   {
+    "key": "B",
+    "text": "Hòa vốn"
+   },
+   {
+    "key": "C",
+    "text": "Không xác định"
+   },
+   {
+    "key": "D",
+    "text": "Lãi"
+   }
+  ]
+ },
+ {
+  "id": "q08-11",
+  "quiz": 8,
+  "number": 11,
+  "type": "single",
+  "prompt": "Chi phí trong doanh nghiệp là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tổng giá trị tài sản đang nắm giữ"
+   },
+   {
+    "key": "B",
+    "text": "Tổng giá trị doanh thu thu được trong kỳ"
+   },
+   {
+    "key": "C",
+    "text": "Phần chênh lệch giữa doanh thu và chi phí"
+   },
+   {
+    "key": "D",
+    "text": "Giá trị các nguồn lực bị hao phí được biểu hiện bằng tiền"
+   }
+  ]
+ },
+ {
+  "id": "q08-12",
+  "quiz": 8,
+  "number": 12,
+  "type": "single",
+  "prompt": "EBIT tăng trong khi lãi vay không đổi thì khả năng trả lãi:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Không đổi"
+   },
+   {
+    "key": "B",
+    "text": "Giảm"
+   },
+   {
+    "key": "C",
+    "text": "Bằng 0"
+   },
+   {
+    "key": "D",
+    "text": "Tăng"
+   }
+  ]
+ },
+ {
+  "id": "q08-13",
+  "quiz": 8,
+  "number": 13,
+  "type": "single",
+  "prompt": "Số dư đảm phí được hiểu là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Phần chênh lệch giữa doanh thu và tổng chi phí biến đổi"
+   },
+   {
+    "key": "B",
+    "text": "Phần lợi nhuận còn lại sau khi trừ toàn bộ chi phí"
+   },
+   {
+    "key": "C",
+    "text": "Tổng doanh thu bán hàng trong kỳ"
+   },
+   {
+    "key": "D",
+    "text": "Tổng chi phí phát sinh trong hoạt động kinh doanh"
+   }
+  ]
+ },
+ {
+  "id": "q08-14",
+  "quiz": 8,
+  "number": 14,
+  "type": "single",
+  "prompt": "Cách nào giúp cải thiện khả năng thanh toán nhanh?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Mở rộng chi phí hoạt động để thúc đẩy tăng trưởng"
+   },
+   {
+    "key": "B",
+    "text": "Gia tăng các khoản vay ngắn hạn"
+   },
+   {
+    "key": "C",
+    "text": "Tăng lượng hàng tồn kho trong kỳ"
+   },
+   {
+    "key": "D",
+    "text": "Tăng lượng tiền mặt và các tài sản có tính thanh khoản cao"
+   }
+  ]
+ },
+ {
+  "id": "q08-15",
+  "quiz": 8,
+  "number": 15,
+  "type": "single",
+  "prompt": "Chi phí cố định là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Thuê tài sản"
+   },
+   {
+    "key": "B",
+    "text": "Chi phí tiền điện"
+   },
+   {
+    "key": "C",
+    "text": "Nguyên vật liệu"
+   },
+   {
+    "key": "D",
+    "text": "Hoa hồng bán hàng"
+   }
+  ]
+ },
+ {
+  "id": "q09-01",
+  "quiz": 9,
+  "number": 1,
+  "type": "single",
+  "prompt": "Dòng chảy vật chất trong chuỗi cung ứng đi theo hướng nào?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Theo chiều từ trái sang phải (từ khai thác đến bán lẻ)"
+   },
+   {
+    "key": "B",
+    "text": "Hai chiều"
+   },
+   {
+    "key": "C",
+    "text": "Ngẫu nhiên"
+   },
+   {
+    "key": "D",
+    "text": "Theo chiều từ phải sang trái"
+   }
+  ]
+ },
+ {
+  "id": "q09-02",
+  "quiz": 9,
+  "number": 2,
+  "type": "single",
+  "prompt": "Theo Deming, khi chọn nhà cung cấp nên ưu tiên:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Giá thấp nhất"
+   },
+   {
+    "key": "B",
+    "text": "Quan hệ dài hạn, tin cậy"
+   },
+   {
+    "key": "C",
+    "text": "Gần nhất"
+   },
+   {
+    "key": "D",
+    "text": "Số lượng nhiều"
+   }
+  ]
+ },
+ {
+  "id": "q09-03",
+  "quiz": 9,
+  "number": 3,
+  "type": "single",
+  "prompt": "Logistics tập trung vào:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Nghiên cứu nhu cầu lưu chuyển hàng hóa"
+   },
+   {
+    "key": "B",
+    "text": "Đưa sản phẩm ra thị trường"
+   },
+   {
+    "key": "C",
+    "text": "Lưu chuyển và lưu trữ hàng hóa"
+   },
+   {
+    "key": "D",
+    "text": "Tìm kiếm nhà cung cấp nguyên liệu thô"
+   }
+  ]
+ },
+ {
+  "id": "q09-04",
+  "quiz": 9,
+  "number": 4,
+  "type": "single",
+  "prompt": "Chuỗi cung ứng là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Hệ thống quản lý tài chính doanh nghiệp"
+   },
+   {
+    "key": "B",
+    "text": "Hệ thống vận chuyển hàng hóa nội bộ doanh nghiệp"
+   },
+   {
+    "key": "C",
+    "text": "Hoạt động bán hàng trực tiếp cho khách hàng"
+   },
+   {
+    "key": "D",
+    "text": "Mạng lưới các hoạt động từ cung ứng, sản xuất đến phân phối nhằm đưa sản phẩm hoàn chỉnh đến khách hàng hiệu quả"
+   }
+  ]
+ },
+ {
+  "id": "q09-05",
+  "quiz": 9,
+  "number": 5,
+  "type": "single",
+  "prompt": "Lợi ích của thời gian chờ (lead time) ngắn là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tăng khả năng phản ứng với biến động nhu cầu thị trường"
+   },
+   {
+    "key": "B",
+    "text": "Loại bỏ nhu cầu dự báo"
+   },
+   {
+    "key": "C",
+    "text": "Đảm bảo không còn tình trạng thiếu hàng"
+   },
+   {
+    "key": "D",
+    "text": "Giảm hoàn toàn chi phí vận hành trong mọi trường hợp"
+   }
+  ]
+ },
+ {
+  "id": "q09-06",
+  "quiz": 9,
+  "number": 6,
+  "type": "single",
+  "prompt": "Nếu không dự báo nhu cầu chính xác, hệ quả là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tối ưu hóa hoàn toàn mức tồn kho trong mọi tình huống"
+   },
+   {
+    "key": "B",
+    "text": "Tăng tính ổn định của nhu cầu thị trường"
+   },
+   {
+    "key": "C",
+    "text": "Loại bỏ hoàn toàn rủi ro thiếu hàng"
+   },
+   {
+    "key": "D",
+    "text": "Gia tăng sự mất cân đối giữa cung và cầu tại các cấp trong chuỗi"
+   }
+  ]
+ },
+ {
+  "id": "q09-07",
+  "quiz": 9,
+  "number": 7,
+  "type": "single",
+  "prompt": "Dòng thông tin trong chuỗi cung ứng là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Một chiều (từ đầu vào đến tay người tiêu dùng)"
+   },
+   {
+    "key": "B",
+    "text": "Không tồn tại"
+   },
+   {
+    "key": "C",
+    "text": "Ngẫu nhiên"
+   },
+   {
+    "key": "D",
+    "text": "Hai chiều (từ đầu vào đến tay người tiêu dùng và ngược lại)"
+   }
+  ]
+ },
+ {
+  "id": "q09-08",
+  "quiz": 9,
+  "number": 8,
+  "type": "single",
+  "prompt": "Nếu mỗi cấp tự dự báo riêng thì điều gì xảy ra?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Ổn định nhu cầu"
+   },
+   {
+    "key": "B",
+    "text": "Giảm tồn kho"
+   },
+   {
+    "key": "C",
+    "text": "Sai lệch nhu cầu tăng dần"
+   },
+   {
+    "key": "D",
+    "text": "Tăng hiệu quả"
+   }
+  ]
+ },
+ {
+  "id": "q09-09",
+  "quiz": 9,
+  "number": 9,
+  "type": "single",
+  "prompt": "Tối ưu hiệu quả nội bộ nhưng không phối hợp với đối tác sẽ dẫn đến:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Phát sinh sự không đồng bộ giữa các mắt xích, làm giảm hiệu quả chung"
+   },
+   {
+    "key": "B",
+    "text": "Đảm bảo dòng chảy hàng hóa ổn định nhờ kiểm soát nội bộ tốt"
+   },
+   {
+    "key": "C",
+    "text": "Gia tăng hiệu quả tổng thể do giảm sự phụ thuộc vào đối tác"
+   },
+   {
+    "key": "D",
+    "text": "Tối ưu chi phí ở cấp độ toàn chuỗi nhờ hiệu quả nội bộ cao"
+   }
+  ]
+ },
+ {
+  "id": "q09-10",
+  "quiz": 9,
+  "number": 10,
+  "type": "single",
+  "prompt": "Dự báo nhu cầu và mức tồn kho thuộc 4 yếu tố cốt lõi nào?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tích hợp"
+   },
+   {
+    "key": "B",
+    "text": "Vận hành"
+   },
+   {
+    "key": "C",
+    "text": "Mua sắm"
+   },
+   {
+    "key": "D",
+    "text": "Phân phối"
+   }
+  ]
+ },
+ {
+  "id": "q09-11",
+  "quiz": 9,
+  "number": 11,
+  "type": "single",
+  "prompt": "Yếu tố nào KHÔNG phải là yếu tố cốt lõi?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Phân phối"
+   },
+   {
+    "key": "B",
+    "text": "Vận hành"
+   },
+   {
+    "key": "C",
+    "text": "Mua sắm"
+   },
+   {
+    "key": "D",
+    "text": "Quảng cáo"
+   }
+  ]
+ },
+ {
+  "id": "q09-12",
+  "quiz": 9,
+  "number": 12,
+  "type": "multi",
+  "prompt": "Chuỗi cung ứng bao gồm những dòng chảy nào?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Dòng chảy tri thức"
+   },
+   {
+    "key": "B",
+    "text": "Dòng chảy vật chất"
+   },
+   {
+    "key": "C",
+    "text": "Dòng chảy tài chính"
+   },
+   {
+    "key": "D",
+    "text": "Dòng chảy thông tin"
+   }
+  ]
+ },
+ {
+  "id": "q09-13",
+  "quiz": 9,
+  "number": 13,
+  "type": "single",
+  "prompt": "Chỉ số giao hàng đúng hạn phản ánh:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Chất lượng dịch vụ"
+   },
+   {
+    "key": "B",
+    "text": "Chi phí"
+   },
+   {
+    "key": "C",
+    "text": "Marketing"
+   },
+   {
+    "key": "D",
+    "text": "Lợi nhuận"
+   }
+  ]
+ },
+ {
+  "id": "q09-14",
+  "quiz": 9,
+  "number": 14,
+  "type": "single",
+  "prompt": "Hiệu ứng roi da (Bullwhip) liên quan đến:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Sai lệch dự báo nhu cầu"
+   },
+   {
+    "key": "B",
+    "text": "Giảm chi phí sản xuất"
+   },
+   {
+    "key": "C",
+    "text": "Giảm tồn kho"
+   },
+   {
+    "key": "D",
+    "text": "Tăng lợi nhuận"
+   }
+  ]
+ },
+ {
+  "id": "q09-15",
+  "quiz": 9,
+  "number": 15,
+  "type": "single",
+  "prompt": "Dòng chảy tài chính đi theo hướng:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Không xác định"
+   },
+   {
+    "key": "B",
+    "text": "Ngược chiều với hàng hóa"
+   },
+   {
+    "key": "C",
+    "text": "Hai chiều"
+   },
+   {
+    "key": "D",
+    "text": "Cùng chiều với hàng hóa"
+   }
+  ]
+ },
+ {
+  "id": "q10-01",
+  "quiz": 10,
+  "number": 1,
+  "type": "single",
+  "prompt": "Kaizen là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Giảm chất lượng"
+   },
+   {
+    "key": "B",
+    "text": "Cải tiến liên tục"
+   },
+   {
+    "key": "C",
+    "text": "Đổi mới lớn"
+   },
+   {
+    "key": "D",
+    "text": "Tăng chi phí"
+   }
+  ]
+ },
+ {
+  "id": "q10-02",
+  "quiz": 10,
+  "number": 2,
+  "type": "single",
+  "prompt": "Doanh nghiệp đạt mục tiêu nhưng tốn nhiều thời gian thì được đánh giá là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Doanh nghiệp đạt cả hiệu quả và hiệu suất cao"
+   },
+   {
+    "key": "B",
+    "text": "Không đạt cả hiệu quả và hiệu suất"
+   },
+   {
+    "key": "C",
+    "text": "Chưa đạt hiệu quả nhưng có hiệu suất cao"
+   },
+   {
+    "key": "D",
+    "text": "Đạt hiệu quả cao nhưng hiệu suất chưa tối ưu"
+   }
+  ]
+ },
+ {
+  "id": "q10-03",
+  "quiz": 10,
+  "number": 3,
+  "type": "single",
+  "prompt": "Hiệu suất là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Làm nhiều việc"
+   },
+   {
+    "key": "B",
+    "text": "Làm đúng cách"
+   },
+   {
+    "key": "C",
+    "text": "Làm nhanh"
+   },
+   {
+    "key": "D",
+    "text": "Làm đúng việc"
+   }
+  ]
+ },
+ {
+  "id": "q10-04",
+  "quiz": 10,
+  "number": 4,
+  "type": "single",
+  "prompt": "Tư duy tinh gọn (Lean) tập trung vào:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tăng tồn kho"
+   },
+   {
+    "key": "B",
+    "text": "Tăng nhân sự"
+   },
+   {
+    "key": "C",
+    "text": "Loại bỏ lãng phí"
+   },
+   {
+    "key": "D",
+    "text": "Giảm khách hàng"
+   }
+  ]
+ },
+ {
+  "id": "q10-05",
+  "quiz": 10,
+  "number": 5,
+  "type": "single",
+  "prompt": "Chiến lược đổi mới theo \"theo dõi thị trường\" là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Đổi mới sáng tạo dựa trên đáp ứng nhu cầu mới của khách hàng"
+   },
+   {
+    "key": "B",
+    "text": "Giảm chi phí"
+   },
+   {
+    "key": "C",
+    "text": "Cải tiến nhỏ làm tăng giá trị cho khách hàng"
+   },
+   {
+    "key": "D",
+    "text": "Đột phá công nghệ"
+   }
+  ]
+ },
+ {
+  "id": "q10-06",
+  "quiz": 10,
+  "number": 6,
+  "type": "single",
+  "prompt": "Đa nhiệm ảnh hưởng đến hiệu suất như thế nào?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Giúp nâng cao hiệu suất do tận dụng tối đa thời gian"
+   },
+   {
+    "key": "B",
+    "text": "Có xu hướng làm giảm hiệu suất do khó tập trung vào từng nhiệm vụ"
+   },
+   {
+    "key": "C",
+    "text": "Không ảnh hưởng đáng kể"
+   },
+   {
+    "key": "D",
+    "text": "Luôn giúp hoàn thành công việc nhanh hơn"
+   }
+  ]
+ },
+ {
+  "id": "q10-07",
+  "quiz": 10,
+  "number": 7,
+  "type": "single",
+  "prompt": "Yếu tố nào kìm hãm sáng tạo?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Thử nghiệm"
+   },
+   {
+    "key": "B",
+    "text": "Đổi mới"
+   },
+   {
+    "key": "C",
+    "text": "Văn hóa sợ thất bại"
+   },
+   {
+    "key": "D",
+    "text": "Lưu lại ý tưởng"
+   }
+  ]
+ },
+ {
+  "id": "q10-08",
+  "quiz": 10,
+  "number": 8,
+  "type": "single",
+  "prompt": "Just-in-time giúp:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Giảm tồn kho"
+   },
+   {
+    "key": "B",
+    "text": "Giảm sản xuất"
+   },
+   {
+    "key": "C",
+    "text": "Tăng chi phí bắt buộc"
+   },
+   {
+    "key": "D",
+    "text": "Tăng tồn kho"
+   }
+  ]
+ },
+ {
+  "id": "q10-09",
+  "quiz": 10,
+  "number": 9,
+  "type": "single",
+  "prompt": "Lãnh đạo là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Quá trình lập kế hoạch, thực hiện và kiểm soát"
+   },
+   {
+    "key": "B",
+    "text": "Khả năng gây ảnh hưởng để đạt mục tiêu"
+   },
+   {
+    "key": "C",
+    "text": "Ra lệnh cho người khác thực hiện công việc"
+   },
+   {
+    "key": "D",
+    "text": "Xây dựng quy trình và điều phối nguồn lực"
+   }
+  ]
+ },
+ {
+  "id": "q10-10",
+  "quiz": 10,
+  "number": 10,
+  "type": "single",
+  "prompt": "Quản lý thời gian là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Làm đúng việc và đúng cách"
+   },
+   {
+    "key": "B",
+    "text": "Làm liên tục"
+   },
+   {
+    "key": "C",
+    "text": "Làm nhiều việc"
+   },
+   {
+    "key": "D",
+    "text": "Làm nhanh"
+   }
+  ]
+ },
+ {
+  "id": "q10-11",
+  "quiz": 10,
+  "number": 11,
+  "type": "single",
+  "prompt": "Ma trận Covey giúp:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tăng sản xuất"
+   },
+   {
+    "key": "B",
+    "text": "Giảm nhân sự"
+   },
+   {
+    "key": "C",
+    "text": "Tăng doanh thu"
+   },
+   {
+    "key": "D",
+    "text": "Phân loại công việc theo mức độ quan trọng và khẩn cấp"
+   }
+  ]
+ },
+ {
+  "id": "q10-12",
+  "quiz": 10,
+  "number": 12,
+  "type": "single",
+  "prompt": "Độ dự trữ tổ chức (organizational slack) là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Lợi nhuận chưa phân phối"
+   },
+   {
+    "key": "B",
+    "text": "Chi phí phát sinh ngoài kế hoạch"
+   },
+   {
+    "key": "C",
+    "text": "Năng lực dư thừa mà tổ chức duy trì"
+   },
+   {
+    "key": "D",
+    "text": "Nguồn lực bị thiếu hụt"
+   }
+  ]
+ },
+ {
+  "id": "q10-13",
+  "quiz": 10,
+  "number": 13,
+  "type": "single",
+  "prompt": "Nếu chỉ tập trung vào hiệu quả mà bỏ qua hiệu suất thì:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tối ưu nguồn lực"
+   },
+   {
+    "key": "B",
+    "text": "Giảm chi phí"
+   },
+   {
+    "key": "C",
+    "text": "Tốn chi phí không cần thiết"
+   },
+   {
+    "key": "D",
+    "text": "Tăng lợi nhuận"
+   }
+  ]
+ },
+ {
+  "id": "q10-14",
+  "quiz": 10,
+  "number": 14,
+  "type": "single",
+  "prompt": "Nhà lãnh đạo hiệu quả trong kỷ nguyên AI là người:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tập trung phát triển con người và kỹ năng mềm"
+   },
+   {
+    "key": "B",
+    "text": "Am hiểu công nghệ để tối ưu hóa quy trình"
+   },
+   {
+    "key": "C",
+    "text": "Ưu tiên tự động hóa"
+   },
+   {
+    "key": "D",
+    "text": "Kết hợp năng lực công nghệ với khả năng lãnh đạo con người và tư duy hệ thống"
+   }
+  ]
+ },
+ {
+  "id": "q10-15",
+  "quiz": 10,
+  "number": 15,
+  "type": "single",
+  "prompt": "Hiệu quả là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Làm nhiều việc"
+   },
+   {
+    "key": "B",
+    "text": "Làm đúng việc"
+   },
+   {
+    "key": "C",
+    "text": "Làm nhanh"
+   },
+   {
+    "key": "D",
+    "text": "Làm đúng cách"
+   }
+  ]
+ },
+ {
+  "id": "q11-01",
+  "quiz": 11,
+  "number": 1,
+  "type": "single",
+  "prompt": "Nếu doanh nghiệp nhập dữ liệu sai và không có cơ chế kiểm soát dữ liệu chặt chẽ, hậu quả nghiêm trọng nhất đối với quản trị là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Thiệt hại tài chính"
+   },
+   {
+    "key": "B",
+    "text": "Ảnh hưởng nghiêm trọng đến uy tín thương hiệu"
+   },
+   {
+    "key": "C",
+    "text": "Hệ thống bị tấn công mạng"
+   },
+   {
+    "key": "D",
+    "text": "Báo cáo sai dẫn đến quyết định quản trị sai"
+   }
+  ]
+ },
+ {
+  "id": "q11-02",
+  "quiz": 11,
+  "number": 2,
+  "type": "single",
+  "prompt": "Kiểm toán nội bộ vừa kiểm toán vừa thiết kế hệ thống kiểm soát sẽ dẫn đến:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Giảm chi phí vận hành hệ thống kiểm soát"
+   },
+   {
+    "key": "B",
+    "text": "Tăng hiệu quả kiểm soát do tập trung quyền lực"
+   },
+   {
+    "key": "C",
+    "text": "Mất tính độc lập của tuyến phòng thủ thứ ba (kiểm toán nội bộ)"
+   },
+   {
+    "key": "D",
+    "text": "Tăng khả năng phát hiện sai sót ngay từ đầu"
+   }
+  ]
+ },
+ {
+  "id": "q11-03",
+  "quiz": 11,
+  "number": 3,
+  "type": "single",
+  "prompt": "Mô hình 3 tuyến giúp:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tăng số cấp quản lý"
+   },
+   {
+    "key": "B",
+    "text": "Phân định rõ trách nhiệm quản lý rủi ro và kiểm soát"
+   },
+   {
+    "key": "C",
+    "text": "Tập trung toàn bộ quyền kiểm soát vào kiểm toán nội bộ"
+   },
+   {
+    "key": "D",
+    "text": "Giảm sự tham gia của bộ phận vận hành"
+   }
+  ]
+ },
+ {
+  "id": "q11-04",
+  "quiz": 11,
+  "number": 4,
+  "type": "single",
+  "prompt": "KPI là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Chỉ số đo lường hiệu suất cốt yếu"
+   },
+   {
+    "key": "B",
+    "text": "Chỉ số thanh khoản"
+   },
+   {
+    "key": "C",
+    "text": "Chỉ số tài chính"
+   },
+   {
+    "key": "D",
+    "text": "Chỉ số nợ"
+   }
+  ]
+ },
+ {
+  "id": "q11-05",
+  "quiz": 11,
+  "number": 5,
+  "type": "single",
+  "prompt": "Rủi ro được hiểu là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Những sự cố gây thiệt hại đã xảy ra trong quá khứ"
+   },
+   {
+    "key": "B",
+    "text": "Các chi phí phát sinh ngoài kế hoạch"
+   },
+   {
+    "key": "C",
+    "text": "Những yếu tố không chắc chắn có thể ảnh hưởng đến việc đạt mục tiêu"
+   },
+   {
+    "key": "D",
+    "text": "Những sai sót trong quá trình thực hiện công việc"
+   }
+  ]
+ },
+ {
+  "id": "q11-06",
+  "quiz": 11,
+  "number": 6,
+  "type": "single",
+  "prompt": "Tuyến 1 không thực hiện tốt vai trò kiểm soát thì hệ quả là:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tuyến phòng thủ thứ hai có thể thay thế hoàn toàn vai trò của tuyến một"
+   },
+   {
+    "key": "B",
+    "text": "Các rủi ro phát sinh không được nhận diện và xử lý kịp thời"
+   },
+   {
+    "key": "C",
+    "text": "Hệ thống kiểm soát nội bộ trở nên linh hoạt và giảm bớt thủ tục"
+   },
+   {
+    "key": "D",
+    "text": "Hiệu quả hoạt động được cải thiện do giảm bớt các bước kiểm soát"
+   }
+  ]
+ },
+ {
+  "id": "q11-07",
+  "quiz": 11,
+  "number": 7,
+  "type": "single",
+  "prompt": "Chỉ số nào sau đây là KPI kết quả?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Số cuộc gọi chăm sóc khách hàng mỗi ngày"
+   },
+   {
+    "key": "B",
+    "text": "Số buổi đào tạo nhân viên đã tổ chức"
+   },
+   {
+    "key": "C",
+    "text": "Tỷ lệ chuyển đổi từ khách hàng tiềm năng sang đơn hàng"
+   },
+   {
+    "key": "D",
+    "text": "Tổng doanh thu đạt được trong quý"
+   }
+  ]
+ },
+ {
+  "id": "q11-08",
+  "quiz": 11,
+  "number": 8,
+  "type": "single",
+  "prompt": "Trong mô hình 3 tuyến (Three Lines Model), điểm khác biệt quan trọng nhất của tuyến 3 (kiểm toán nội bộ) so với tuyến 1 (quản lý vận hành) và tuyến 2 (giám sát và kiểm soát) là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Có quyền ban hành chính sách"
+   },
+   {
+    "key": "B",
+    "text": "Thực hiện kiểm soát hằng ngày"
+   },
+   {
+    "key": "C",
+    "text": "Chịu trách nhiệm quản trị rủi ro trực tiếp"
+   },
+   {
+    "key": "D",
+    "text": "Độc lập và báo cáo trực tiếp cho ban quản trị hoặc hội đồng quản trị"
+   }
+  ]
+ },
+ {
+  "id": "q11-09",
+  "quiz": 11,
+  "number": 9,
+  "type": "single",
+  "prompt": "Vai trò chính của KPI tác nghiệp trong doanh nghiệp là gì?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Hỗ trợ theo dõi và điều chỉnh các hoạt động hằng ngày nhằm góp phần đạt mục tiêu chiến lược"
+   },
+   {
+    "key": "B",
+    "text": "Phản ánh trực tiếp kết quả tài chính cuối cùng của doanh nghiệp"
+   },
+   {
+    "key": "C",
+    "text": "Thay thế hoàn toàn các KPI chiến lược trong việc đo lường hiệu quả"
+   },
+   {
+    "key": "D",
+    "text": "Dùng để đánh giá hiệu suất của từng cá nhân riêng lẻ"
+   }
+  ]
+ },
+ {
+  "id": "q11-10",
+  "quiz": 11,
+  "number": 10,
+  "type": "single",
+  "prompt": "KPI dẫn dắt có vai trò:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Chỉ dùng để báo cáo tài chính định kỳ"
+   },
+   {
+    "key": "B",
+    "text": "Đánh giá kết quả đã đạt được sau cùng"
+   },
+   {
+    "key": "C",
+    "text": "Dự báo và tác động đến khả năng đạt mục tiêu trong tương lai"
+   },
+   {
+    "key": "D",
+    "text": "Ghi nhận chi phí phát sinh trong quá trình vận hành"
+   }
+  ]
+ },
+ {
+  "id": "q11-11",
+  "quiz": 11,
+  "number": 11,
+  "type": "multi",
+  "prompt": "Chỉ số nào sau đây là KPI dẫn dắt?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Số khách hàng mới/tháng"
+   },
+   {
+    "key": "B",
+    "text": "Tỷ lệ nghỉ việc 10%"
+   },
+   {
+    "key": "C",
+    "text": "Số cuộc gọi chăm sóc khách hàng mỗi ngày"
+   },
+   {
+    "key": "D",
+    "text": "Lợi nhuận quý đạt 1 tỷ"
+   }
+  ]
+ },
+ {
+  "id": "q11-12",
+  "quiz": 11,
+  "number": 12,
+  "type": "multi",
+  "prompt": "Có những cách phân loại KPI nào?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Theo chiến lược"
+   },
+   {
+    "key": "B",
+    "text": "Theo cấp độ quản trị"
+   },
+   {
+    "key": "C",
+    "text": "Theo tính chất đo lường"
+   },
+   {
+    "key": "D",
+    "text": "Theo lĩnh vực"
+   }
+  ]
+ },
+ {
+  "id": "q11-13",
+  "quiz": 11,
+  "number": 13,
+  "type": "single",
+  "prompt": "Doanh nghiệp chỉ dùng KPI kết quả mà không có KPI dẫn dắt sẽ:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Vẫn theo dõi được kết quả nhưng thiếu cơ sở để điều chỉnh kịp thời trong quá trình thực hiện"
+   },
+   {
+    "key": "B",
+    "text": "Tăng khả năng dự báo và kiểm soát hiệu suất trong suốt quá trình"
+   },
+   {
+    "key": "C",
+    "text": "Nâng cao tính chủ động trong việc đạt mục tiêu"
+   },
+   {
+    "key": "D",
+    "text": "Giảm sự phụ thuộc vào các chỉ số định lượng trong quản trị"
+   }
+  ]
+ },
+ {
+  "id": "q11-14",
+  "quiz": 11,
+  "number": 14,
+  "type": "single",
+  "prompt": "Quy trình xác định rủi ro gồm:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Nhận diện rủi ro → Kiểm soát rủi ro"
+   },
+   {
+    "key": "B",
+    "text": "Nhận diện rủi ro → Đánh giá rủi ro"
+   },
+   {
+    "key": "C",
+    "text": "Nhận diện rủi ro → Xác định mức độ ảnh hưởng"
+   },
+   {
+    "key": "D",
+    "text": "Nhận diện rủi ro → Giảm thiểu rủi ro"
+   }
+  ]
+ },
+ {
+  "id": "q11-15",
+  "quiz": 11,
+  "number": 15,
+  "type": "single",
+  "prompt": "Ma trận rủi ro trong quản trị dự án được sử dụng nhằm:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Phân bổ nguồn lực nhân sự cho từng hạng mục"
+   },
+   {
+    "key": "B",
+    "text": "Ghi nhận toàn bộ chi phí phát sinh trong dự án"
+   },
+   {
+    "key": "C",
+    "text": "Theo dõi tiến độ thực hiện các công việc chính"
+   },
+   {
+    "key": "D",
+    "text": "Xác định và phân loại rủi ro theo mức độ ảnh hưởng và khả năng xảy ra"
+   }
+  ]
+ }
+]
