@@ -1,0 +1,252 @@
+[
+  {
+    "a": "D", "c": "m",
+    "h": [
+      "Nhớ lại ba giai đoạn CSKH: trước, trong và sau khi mua.",
+      "Giai đoạn giữa gắn với việc theo dõi tình trạng đơn hàng.",
+      "Loại {B}: tư vấn thuộc giai đoạn trước khi mua. Loại {A} và {C}: đổi trả và đánh giá thuộc giai đoạn sau khi mua."
+    ],
+    "e": "Trong khi mua, shop theo dõi sát trạng thái đơn hàng, ví dụ gửi tin nhắn xác nhận và thông báo khi hàng bắt đầu giao.",
+    "w": {
+      "A": "Xử lý khiếu nại đổi trả thuộc giai đoạn sau khi mua.",
+      "B": "Tư vấn để chốt đơn thuộc giai đoạn trước khi mua.",
+      "C": "Xin đánh giá diễn ra sau khi khách nhận hàng."
+    },
+    "q": "Giai đoạn thứ hai là giai đoạn trong khi mua. Ở giai đoạn này, chúng ta sẽ cần theo dõi sát sao trạng thái của đơn hàng",
+    "k": ["chăm sóc khách hàng", "trong khi mua", "trạng thái của đơn hàng"],
+    "n": "Transcript nêu giai đoạn trong khi mua là theo dõi sát sao trạng thái đơn hàng. Việc gửi tin nhắn tự động xác nhận và thông báo giao hàng là cách cụ thể hóa, không nêu nguyên văn. Các phương án khác thuộc trước hoặc sau khi mua."
+  },
+  {
+    "a": "C", "c": "h",
+    "h": [
+      "Nhớ lại ba chữ cái của mô hình RFM.",
+      "Chữ F đo mức độ trung thành của khách.",
+      "Loại {B} là chữ R, loại {D} là chữ M. Loại {A}: không phải thành phần của RFM."
+    ],
+    "e": "F là Frequency, tần suất mua hàng, cho biết khách mua thường xuyên hay chỉ chờ giảm giá sâu mới mua.",
+    "w": {
+      "A": "Tốc độ phản hồi khuyến mãi không phải thành phần của RFM.",
+      "B": "Khoảng thời gian từ lần mua gần nhất là chữ R.",
+      "D": "Tổng số tiền chi trả là chữ M."
+    },
+    "q": "chữ F cho biết mức độ trung thành khách hàng mua thường xuyên hay chỉ chờ có giả giá cực sâu mới mua",
+    "k": ["RFM", "mức độ trung thành"]
+  },
+  {
+    "a": "A", "c": "m",
+    "h": [
+      "Nhớ lại chính sách về thông tin khách hàng của Shopee và TikTok Shop.",
+      "Sàn giữ thông tin khách hàng cho riêng họ vì quyền riêng tư.",
+      "Loại {B}, {C}, {D}: giới hạn tin nhắn, chi phí quảng cáo và ẩn sản phẩm không được nói trong bài."
+    ],
+    "e": "Masking che thông tin định danh của khách trên vận đơn và hệ thống quản lý đơn hàng, khiến nhà bán khó thu thập dữ liệu khách hàng.",
+    "w": {
+      "B": "Bài giảng không nêu giới hạn số tin nhắn mỗi ngày.",
+      "C": "Chính sách này không liên quan đến chi phí quảng cáo từ khóa.",
+      "D": "Chính sách này không liên quan đến việc ẩn sản phẩm bán thấp."
+    },
+    "q": "áp dụng chính sách share thông tin khách hàng trên vận đơn và trong hệ thống quản lý đơn hàng để bảo vệ quyền riêng tư",
+    "k": ["thông tin khách hàng", "dữ liệu định danh", "quyền riêng tư"],
+    "n": "Transcript nói sàn che thông tin khách hàng trên vận đơn và hệ thống đơn hàng nhằm bảo vệ quyền riêng tư (bản ghi viết chữ 'share', có thể là 'mask'), và gọi thông tin khách hàng là 'vàng đen' sàn giữ riêng. Bài không nêu rõ khó khăn cụ thể cho nhà bán."
+  },
+  {
+    "a": "B", "c": "l", "nr": true,
+    "h": [
+      "Sắp xếp các hành động của khách theo phễu từ nhận biết đến mua.",
+      "Tầng quan tâm nằm sau khi khách đã vào shop và trước khi họ cân nhắc mua.",
+      "Loại {A}: truy cập thuộc tầng nhận biết. Loại {C}: thêm giỏ hàng gần quyết định mua. Loại {D}: đặt hàng là hành động."
+    ],
+    "e": "Suy ra theo thứ tự phễu AIDA, tầng Quan tâm gồm lượt nhấp chuột và lượt xem trang chi tiết sản phẩm.",
+    "w": {
+      "A": "Lượt Visitors thuộc tầng nhận biết.",
+      "C": "Thêm vào giỏ hàng gần tầng mong muốn.",
+      "D": "Đặt hàng và thanh toán thuộc tầng hành động."
+    },
+    "q": "Thì chúng ta sẽ có quan tâm những chỉ số nào theo từng giai đoạn này đó từng chỉ số đo lường",
+    "k": ["dashboard", "hành trình khách hàng", "AIDA"],
+    "n": "Transcript chỉ nói Dashboard nên xây dựng theo hành trình khách hàng, không liệt kê chỉ số của tầng 'Quan tâm'. Đáp án B suy ra theo thứ tự phễu AIDA (nhận biết, quan tâm, mong muốn, hành động) trong Bài 9. Cần đối chiếu đáp án chính thức."
+  },
+  {
+    "a": "A", "c": "m",
+    "h": [
+      "Nhớ lại bốn chữ P, D, C, A của chu trình PDCA.",
+      "Chữ C là bước kiểm tra kết quả bằng số liệu.",
+      "Loại {B} là chuẩn hóa (Act). Loại {C} là lập kế hoạch (Plan). Loại {D} là thực hiện thay đổi (Do)."
+    ],
+    "e": "Check là bước đo lường lại chỉ số sau khi thay đổi. Chuẩn hóa là Act, lập kế hoạch là Plan, thực hiện là Do.",
+    "w": {
+      "B": "Chuẩn hóa quy trình thành công thuộc bước Act.",
+      "C": "Lập kế hoạch thuộc bước Plan.",
+      "D": "Thực hiện thay đổi thuộc bước Do."
+    },
+    "q": "Chúng ta bắt đầu từ việc lập kế hoạch đến thực hiện các hoạt động thường xuyên đo lường và tiếp tục tối ưu",
+    "k": ["PDCA", "đo lường"],
+    "n": "Transcript chỉ mô tả PDCA khái quát: lập kế hoạch, thực hiện, đo lường, tối ưu. Mốc 7 đến 14 ngày không có trong bài giảng. Đáp án A chọn vì Check là bước đo lường, các phương án B, C, D ứng với Act, Plan, Do."
+  },
+  {
+    "a": "B", "c": "l", "nr": true,
+    "h": [
+      "Nghĩ về lợi ích dài hạn của việc chăm sóc từng khách hàng một cách riêng biệt.",
+      "Khách hài lòng quay lại và giới thiệu thêm, giúp giảm chi phí thu hút khách mới.",
+      "Loại {A}, {C}, {D}: tăng giá, bỏ án phạt và giảm nhân sự đóng gói không phải kết quả của cá nhân hóa CSKH."
+    ],
+    "e": "Ngoài bài giảng: cá nhân hóa CSKH giúp khách hài lòng và quay lại, tăng giá trị vòng đời khách hàng (LTV) và giảm chi phí Marketing. Bài giảng chỉ nói khách hài lòng thành quảng cáo tự nhiên.",
+    "w": {
+      "A": "Bài giảng không nói CSKH để tăng giá bán.",
+      "C": "Án phạt giao muộn vẫn áp dụng, CSKH không loại bỏ.",
+      "D": "CSKH không liên quan đến nhân sự đóng gói."
+    },
+    "q": "Một khách hàng hài lòng sẽ để lại đánh giá cái hình ảnh cái video thì đây là một loại quảng cáo có giá trị cao nhất",
+    "k": ["chăm sóc khách hàng", "niềm tin", "khách hàng quay lại"],
+    "n": "Transcript nói CSKH xây niềm tin và khách hài lòng thành quảng cáo tự nhiên, nhưng không nhắc 'cá nhân hóa', LTV hay giảm chi phí Marketing. Đáp án B chọn vì các phương án khác không có căn cứ. Cần đối chiếu đáp án chính thức."
+  },
+  {
+    "a": "A", "c": "m",
+    "h": [
+      "Nhớ lại các hình phạt sàn áp dụng khi chỉ số vận hành kém.",
+      "Hình phạt liên quan đến mức hiển thị của shop.",
+      "Loại {B}, {C}, {D}: giới hạn đăng sản phẩm, chặn mã giảm giá và tự giảm giá bán không được nêu."
+    ],
+    "e": "Chỉ số vận hành kém bị sàn phạt bằng cắt trợ giá, giảm hiển thị và nặng nhất là khóa shop, nên nguồn traffic bị ảnh hưởng nghiêm trọng.",
+    "w": {
+      "B": "Giới hạn số sản phẩm đăng mới không được nêu.",
+      "C": "Không liên quan đến mã giảm giá khi thanh toán.",
+      "D": "Sàn không tự giảm giá bán của shop."
+    },
+    "q": "Nếu chúng ta vi phạm thì san sẽ phạt bằng cách ví dụ như là cắt trợ giá giảm hiển thị hoặc nặng nhất nó sẽ khóa so",
+    "k": ["tỉ lệ phản hồi chat", "giảm hiển thị", "vi phạm"],
+    "n": "Transcript nói vi phạm chỉ số bị phạt bằng cắt trợ giá, giảm hiển thị hoặc khóa shop, và nêu 'tỉ lệ phản hồi chat' trong phần xương cá. Cụm 'ngừng phân phối Traffic' và 'chết' không có nguyên văn. Đáp án A là phương án gần nhất."
+  },
+  {
+    "a": "C", "c": "m",
+    "h": [
+      "Nhớ lại nhóm chỉ số vận hành và trải nghiệm trên TikTok Shop.",
+      "NFR liên quan đến những đơn hàng không hoàn thành.",
+      "Loại {A}: đánh giá 5 sao. Loại {B}: phản hồi tin nhắn. Loại {D}: giao sớm hơn dự kiến."
+    ],
+    "e": "NFR đo tỉ lệ đơn hàng không thành công do lỗi từ phía người bán. Đây thuộc nhóm chỉ số vận hành và trải nghiệm.",
+    "w": {
+      "A": "Đánh giá 5 sao thuộc điểm đánh giá cửa hàng.",
+      "B": "Phản hồi tin nhắn là chỉ số khác.",
+      "D": "Giao sớm hơn dự kiến không phải điều NFR đo."
+    },
+    "q": "tỉ lệ đơn hàng bị hủy do lỗi từ người bán, tỉ lệ gửi hàng muộn, điểm đánh giá cửa hàng",
+    "k": ["chỉ số vận hành", "đơn hàng bị hủy", "lỗi từ người bán"],
+    "n": "Transcript nhắc chỉ số tỉ lệ đơn hàng bị hủy do lỗi từ người bán trong nhóm vận hành, nhưng không nêu tên NFR. Đáp án C khớp ý. Vế 'hoặc khách trả hàng' không có trong transcript."
+  },
+  {
+    "a": "C", "c": "m",
+    "h": [
+      "Xác định điểm gãy: shop thiếu khách vào hay khách vào rồi không mua.",
+      "Tỉ lệ mua cao cho thấy sản phẩm đã thuyết phục, vấn đề nằm ở số người nhìn thấy.",
+      "Loại {A}: sửa ảnh dùng khi chuyển đổi thấp. Loại {B}: combo tăng giá trị đơn. Loại {D}: giảm hoàn hàng không liên quan."
+    ],
+    "e": "Traffic thấp, CR cao do thiếu hiển thị, nên cần tăng nguồn khách bằng quảng cáo, Flash Sale hoặc KOC.",
+    "w": {
+      "A": "Sửa ảnh và video phù hợp khi chuyển đổi thấp, không phải khi CR đã cao.",
+      "B": "Combo tăng giá trị đơn, không giải quyết thiếu traffic.",
+      "D": "Giảm hoàn hàng không liên quan đến thiếu hiển thị."
+    },
+    "q": "traffic thì thấp nhưng tỉ lệ chuyển đổi tỉ lệ cao. Thì nguyên nhân có thể là sản phẩm chất lượng giá tốt nhưng bị thiếu hiển thị",
+    "k": ["traffic", "tỉ lệ chuyển đổi", "thiếu hiển thị"],
+    "n": "Transcript nêu nguyên nhân là sản phẩm tốt nhưng thiếu hiển thị, và không nêu giải pháp. Đáp án C (tăng hiển thị, kéo traffic) suy ra từ nguyên nhân đó, dựa trên các công cụ ở Bài 7 và Bài 10."
+  },
+  {
+    "a": "A", "c": "m",
+    "h": [
+      "Tìm điểm gãy trong phễu của phiên live: người xem, nhấp giỏ, thanh toán.",
+      "Khách đã nhấp giỏ nhưng không thanh toán, nên vấn đề nằm ở quyết định cuối.",
+      "Loại {B}: tìm KOC mới để tăng người xem. Loại {C} và {D}: ánh sáng, âm thanh và kịch bản ảnh hưởng thời gian ở lại, không phải bước thanh toán."
+    ],
+    "e": "Lượt nhấp giỏ hàng cao nhưng checkout thấp cho thấy điểm gãy ở quyết định mua, cần xem lại giá, mã Freeship và tạo khan hiếm.",
+    "w": {
+      "B": "Tăng người theo dõi không xử lý việc khách không thanh toán.",
+      "C": "Ánh sáng và âm thanh ảnh hưởng thời gian ở lại, không phải checkout.",
+      "D": "Đổi toàn bộ kịch bản chưa nhắm đúng điểm gãy ở thanh toán."
+    },
+    "q": "Còn tỉ lệ thanh toán khách đã thêm vào giỏ nhưng không mua",
+    "k": ["điểm gãy", "GPM", "livestream"],
+    "n": "Transcript chỉ nêu cách phân tích theo dữ liệu thời gian thực (lượt nhấp giỏ hàng, tỉ lệ giữ chân, tỉ lệ thanh toán), không nêu giải pháp cho tình huống này. Đáp án A suy ra từ điểm gãy ở bước thanh toán, và 'tạo sự khan hiếm' có ở Bài 9."
+  },
+  {
+    "a": "C", "c": "m",
+    "h": [
+      "Nhớ lại ý nghĩa chữ R của RFM.",
+      "R cho biết khoảng thời gian từ lần mua gần nhất.",
+      "Loại {A}: nhóm VIP. Loại {B}: không phải đặc điểm của nhóm nguy cơ. Loại {D}: khách mua một lần giá trị lớn là nhóm tiềm năng."
+    ],
+    "e": "Nhóm nguy cơ có R cao theo quy ước số ngày kể từ lần mua cuối, nghĩa là đã lâu không quay lại mua hàng.",
+    "w": {
+      "A": "Mua thường xuyên và chi nhiều là nhóm VIP.",
+      "B": "Phản hồi nhanh không phải tiêu chí RFM.",
+      "D": "Bài giảng không mô tả nhóm này là nhóm nguy cơ."
+    },
+    "q": "chữ R cho chúng ta biết khách hàng vừa mua hàng của mình hôm qua hay là đã từ một khoảng thời gian nào đó",
+    "k": ["RFM", "nhóm nguy cơ", "khách hàng quay lại"],
+    "n": "Transcript nêu R cho biết khách mua hôm qua hay đã lâu, và có nhóm 'nguy cơ'. Cách hiểu 'R cao' phụ thuộc quy ước chấm điểm: nếu R là số ngày kể từ lần mua cuối thì R cao nghĩa là lâu không mua, nếu chấm điểm R cao là mua gần đây thì ngược lại. Đề dùng quy ước số ngày."
+  },
+  {
+    "a": "D", "c": "h",
+    "h": [
+      "Nhớ lại lỗi đóng gói phổ biến liên quan đến vận đơn.",
+      "Máy quét của đơn vị vận chuyển rất nhạy cảm với ánh sáng.",
+      "Loại {B}: dán đè nhiều lớp chính là lỗi. Loại {A} và {C}: không phải hướng dẫn trong bài."
+    ],
+    "e": "Băng keo dán đè lên mã vận đơn gây phản quang, máy quét không đọc được và đơn hàng bị tồn đọng.",
+    "w": {
+      "A": "Dán một góc không phải hướng dẫn trong bài.",
+      "B": "Dán đè nhiều lớp là lỗi phổ biến.",
+      "C": "Bài giảng không nêu vị trí dán ở mặt dưới."
+    },
+    "q": "dán băng keo đè lên mã vận đơn các máy quét của đơn vị vận chuyển rất nhạy cảm với ánh sáng",
+    "k": ["đóng gói", "vận đơn", "băng keo"]
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại quy trình xử lý đánh giá xấu.",
+      "Bước đầu là kết nối với khách để hiểu vấn đề.",
+      "Loại {A}: tặng voucher khi chưa biết nguyên nhân. Loại {C}: phản hồi gay gắt. Loại {D}: yêu cầu xóa đánh giá ngay."
+    ],
+    "e": "Bước đầu tiên là liên hệ trực tiếp qua chat hoặc hotline, lắng nghe rồi mới đưa phương án bồi thường.",
+    "w": {
+      "A": "Bài giảng không nói tặng voucher khi chưa hỏi nguyên nhân.",
+      "C": "Phản hồi gay gắt làm tổn hại uy tín shop.",
+      "D": "Bài giảng không nói nhờ sàn xóa ngay đánh giá."
+    },
+    "q": "chúng ta hãy liên hệ trực tiếp qua chat hotline ngay lập tức",
+    "k": ["đánh giá xấu", "hotline"]
+  },
+  {
+    "a": "A", "c": "h",
+    "h": [
+      "Nhớ lại số bước của quy trình vận hành tổng quan.",
+      "Quy trình đi từ khi khách đặt hàng đến khi đơn được giao thành công.",
+      "Loại {B}, {C}, {D}: số bước và nội dung không khớp bài giảng."
+    ],
+    "e": "Quy trình gồm 5 bước: tiếp nhận và xác nhận, chuẩn bị hàng và đóng gói, in và dán vận đơn, bàn giao vận chuyển, theo dõi và hoàn tất.",
+    "w": {
+      "B": "Không phải 4 bước này.",
+      "C": "Không phải 3 bước này.",
+      "D": "Không phải 6 bước, quảng cáo và tư vấn không thuộc quy trình xử lý đơn."
+    },
+    "q": "Bước thứ nhất là tiếp nhận và xác nhận đơn hàng. Bước thứ hai là chuẩn bị hàng và đóng gói. Bước thứ ba in và dán vận đơn",
+    "k": ["xử lý đơn hàng", "năm bước"]
+  },
+  {
+    "a": "A", "c": "h",
+    "h": [
+      "Nhớ lại chỉ số đo mức hấp dẫn của quảng cáo trên Shopee.",
+      "CTR so sánh số lượt bấm với số lần sản phẩm được hiển thị.",
+      "Loại {B}: tỉ lệ thoát trang. Loại {C}: doanh thu trung bình mỗi đơn. Loại {D}: tỉ lệ chuyển đổi đơn hàng."
+    ],
+    "e": "CTR = Lượt click / Lượt hiển thị x 100%, cho biết cứ 100 lượt hiển thị có bao nhiêu người bấm vào sản phẩm.",
+    "w": {
+      "B": "Đó là tỉ lệ thoát trang.",
+      "C": "Đó là doanh thu trên mỗi đơn (AOV).",
+      "D": "Đó là tỉ lệ chuyển đổi đơn hàng."
+    },
+    "q": "CTR cho biết là cứ 100 lượt hiển thị thì sẽ có bao nhiêu người bấm vào sản phẩm",
+    "k": ["CTR", "lượt hiển thị"]
+  }
+]

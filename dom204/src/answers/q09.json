@@ -1,0 +1,247 @@
+[
+  {
+    "a": "C", "c": "h",
+    "h": [
+      "Nhớ lại vai trò nghiên cứu thị trường của livestream.",
+      "Streamer có thể biết ngay phản hồi của người xem về màu sắc, giá và điểm họ thích hoặc ghét.",
+      "Loại {A}, {B}, {D}: livestream không giới hạn ở ngành y tế và không cần môi trường chân không hay thiết bị đo hóa học."
+    ],
+    "e": "Bình luận của người xem giống một cuộc khảo sát thời gian thực về sở thích và giá cả.",
+    "w": {
+      "A": "Livestream không giới hạn ở ngành y tế.",
+      "B": "Dữ liệu khách hàng không liên quan đến môi trường chân không.",
+      "D": "Livestream không cần thiết bị đo hóa học."
+    },
+    "q": "cái bình luận của khách hàng giống như một cái cuộc khảo sát",
+    "k": ["phòng thí nghiệm", "nghiên cứu thị trường"]
+  },
+  {
+    "a": ["A", "C", "D"], "c": "h",
+    "h": [
+      "Nhớ lại ba yếu tố hội tụ khiến livestream thương mại bùng nổ.",
+      "Các yếu tố liên quan đến người tiêu dùng, tâm lý tin tưởng và điều kiện kỹ thuật.",
+      "Loại {B}: sản xuất công nghiệp không được nhắc trong bài. Ba lựa chọn còn lại ứng với ba yếu tố trong bài."
+    ],
+    "e": "Bài giảng nêu ba yếu tố hội tụ: kinh tế hành vi của người tiêu dùng, niềm tin và tính xác thực, hạ tầng công nghệ. Quy trình sản xuất công nghiệp không có.",
+    "w": {
+      "B": "Quy trình sản xuất công nghiệp không được nhắc trong bài giảng."
+    },
+    "q": "Thứ hai đó là yếu tố liên quan đến niềm tin và tính thác thực",
+    "k": ["kinh tế hành vi", "niềm tin", "hạ tầng"],
+    "n": "Câu nhiều đáp án. Đúng: Hành vi Người dùng, Công nghệ và Hạ tầng, Niềm tin và Xác thực. Sai: Quy trình sản xuất công nghiệp."
+  },
+  {
+    "a": "D", "c": "h",
+    "h": [
+      "Nhớ lại các nhóm chỉ số trong báo cáo Post-Live.",
+      "Mỗi nhóm đo một khía cạnh: sức hút, tương tác, bán hàng và chi phí.",
+      "Loại {A}: thuộc nhóm chi phí. Loại {B}: thuộc nhóm tương tác. Loại {C}: thuộc nhóm tổng thể."
+    ],
+    "e": "Hiệu suất bán hàng đo bằng tổng doanh thu, số đơn hàng, giá trị đơn hàng và tỉ lệ chuyển đổi.",
+    "w": {
+      "A": "Chi phí quảng cáo và ROAS thuộc nhóm chi phí đầu tư.",
+      "B": "Like, share và tỉ lệ tương tác thuộc nhóm tương tác.",
+      "C": "Lượt xem và xem đồng thời đỉnh thuộc nhóm chỉ số tổng thể."
+    },
+    "q": "bán hàng thì chúng ta có thể đo bằng tổng doanh thu, tổng số đơn, giá trị đơn hàng, tỉ lệ chuyển đổi",
+    "k": ["post-live", "tỉ lệ chuyển đổi", "GMV"]
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại mẹo cải thiện chất lượng video trong giai đoạn Production.",
+      "Ưu tiên độ phân giải cao, khung hình ở mức tiêu chuẩn và ống kính gốc.",
+      "Loại {A}, {C}, {D}: không phải các thông số được bài giảng nêu."
+    ],
+    "e": "Người mới nên quay chế độ 4K, FPS 30 và dùng camera thường ở mức 1X.",
+    "w": {
+      "A": "Bài giảng nêu FPS 30 và camera 1X, không nêu FPS 60 hay zoom.",
+      "C": "Bài giảng khuyên cài đặt thông số để chọn chất lượng tốt nhất.",
+      "D": "Bài giảng không nêu HD, FPS 60 hay camera trước."
+    },
+    "q": "quay ở chế độ 4K khung hình là FPS30 luôn ưu tiên quay bằng camera thường để chế độ 1X",
+    "k": ["production", "4K", "FPS"]
+  },
+  {
+    "a": "C", "c": "m",
+    "h": [
+      "Nhớ lại các vai trò của livestream trong việc tăng doanh thu.",
+      "Bài giảng liệt kê các vai trò như kênh bán, ra mắt sản phẩm, xả tồn kho, xây thương hiệu và nghiên cứu thị trường.",
+      "Loại {A}, {B}, {D}: đây đều là vai trò được nêu trong bài."
+    ],
+    "e": "Ba vai trò {A}, {B}, {D} đều được nêu trong bài. Thay thế hoàn toàn các kênh bán lẻ truyền thống và kho bãi không phải vai trò của livestream.",
+    "w": {
+      "A": "Đây là vai trò: phòng thí nghiệm nghiên cứu thị trường.",
+      "B": "Đây là vai trò: công cụ ra mắt sản phẩm (Launchpad).",
+      "D": "Đây là vai trò: kênh xây dựng thương hiệu và lòng trung thành."
+    },
+    "q": "livestream không chỉ là một cái kênh bán hàng mà còn là một cuộc cách mạng trong hành vi mua sắm",
+    "k": ["ra mắt sản phẩm", "phòng thí nghiệm", "xây dựng thương hiệu"],
+    "n": "Transcript nêu các vai trò: kênh bán hàng, Launchpad, xả hàng tồn, xây thương hiệu, phòng thí nghiệm thị trường. Không có vai trò thay thế hoàn toàn kênh bán lẻ và kho bãi, nên chọn C theo cách loại trừ."
+  },
+  {
+    "a": "A", "c": "m",
+    "h": [
+      "Nhớ lại mô hình AIDA gồm bốn pha và hành trình khách hàng truyền thống.",
+      "Trong livestream, các pha diễn ra trong một khoảng thời gian rất ngắn.",
+      "Loại {B}: bước hành động vẫn còn vì khách bấm giỏ hàng để mua. Loại {C} và {D}: livestream không kéo dài hay giữ nguyên chu trình dài."
+    ],
+    "e": "Livestream dồn các pha nhận biết, quan tâm, mong muốn và hành động vào một phiên, nên nén phễu bán hàng trong thời gian ngắn.",
+    "w": {
+      "B": "Khách vẫn bấm giỏ hàng để mua trong phiên.",
+      "C": "Livestream rút ngắn chứ không kéo dài hành trình.",
+      "D": "Livestream thay đổi chu trình dài của hình thức truyền thống."
+    },
+    "q": "Tất cả nó đều dồn lại trong một cái phiên livestream",
+    "k": ["AIDA", "phễu", "livestream"],
+    "n": "Transcript nói livestream dồn toàn bộ các pha AIDA vào một phiên, tức là rút ngắn phễu. Cụm 'vòng lặp thống nhất' trong đáp án không xuất hiện nguyên văn."
+  },
+  {
+    "a": "C", "c": "h",
+    "h": [
+      "Nhớ lại lý do khiến livestream tạo trải nghiệm mua sắm liền mạch.",
+      "Ba yếu tố gồm cảm xúc của khách, mối quan hệ với người bán và hoạt động mua.",
+      "Loại {A}, {B}, {D}: các nhóm này không phải ba yếu tố cốt lõi nêu trong bài."
+    ],
+    "e": "Livestream kết hợp giải trí, tương tác với người bán và mua hàng kèm khuyến mãi.",
+    "w": {
+      "A": "Vận chuyển và thanh toán không được nêu là yếu tố cốt lõi.",
+      "B": "Kho bãi và phân phối là khâu hậu cần.",
+      "D": "Hình ảnh, văn bản, âm thanh là định dạng truyền thông."
+    },
+    "q": "nó kết hợp ba yếu tố. Thứ nhất là yếu tố liên quan đến giải trí",
+    "k": ["livestream commerce", "giải trí", "tương tác"],
+    "n": "Yếu tố thứ ba trong bài là mua sản phẩm kèm voucher và khuyến mãi, tương ứng 'Thương mại' trong đáp án."
+  },
+  {
+    "a": "D", "c": "m",
+    "h": [
+      "Nhớ lại giai đoạn Performance, phần kịch bản và tương tác.",
+      "Hoạt động xen giữa các phần liên quan đến mức độ tương tác của người xem.",
+      "Loại {A}, {B}, {C}: không phải mục tiêu của mini game."
+    ],
+    "e": "Mini game và tặng quà xen giữa các phần để duy trì tương tác và sự chú ý của người xem.",
+    "w": {
+      "A": "Bài giảng không nói mini game để quảng cáo cho nhãn hàng tài trợ.",
+      "B": "Mini game không thay thế phần giới thiệu sản phẩm.",
+      "C": "Mục tiêu không phải để streamer nghỉ ngơi."
+    },
+    "q": "giữa các phần thì chúng ta nên có các cái phần minig game tương tác, giúp thăm trúng thưởng hoặc là trả lời bình luận",
+    "k": ["tương tác", "performance"],
+    "n": "Transcript nêu nên có mini game giữa các phần và nói hoạt động trong live nhằm gia tăng tương tác, chú ý. Cụm 'duy trì năng lượng, giữ chân người xem' là diễn giải."
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại các tình huống xử lý khi livestream.",
+      "Bài giảng khuyên giữ thái độ tích cực và đưa phương án cho người xem.",
+      "Loại {A}, {C}, {D}: dừng live, tranh cãi hay phớt lờ bình luận đều là phản ứng tiêu cực."
+    ],
+    "e": "Khi cháy hàng, streamer thông báo vui mừng và giới thiệu sản phẩm thay thế tương tự.",
+    "w": {
+      "A": "Bài giảng không khuyên dừng phiên live.",
+      "C": "Bài giảng không khuyên tranh cãi trên sóng.",
+      "D": "Bài giảng khuyên trả lời nhanh và gọi tên khách."
+    },
+    "q": "Còn những cái sản phẩm bất ngờ trái hàng thì thông báo vui mừng, giới thiệu sản phẩm thay thế tương tự",
+    "k": ["sản phẩm thay thế", "streamer"]
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại các mốc thời gian trong giai đoạn Process.",
+      "Mốc đầu tiên là xác nhận đơn, mốc sau là đóng gói và bàn giao.",
+      "Loại {A} và {D}: xác nhận quá muộn khiến khách hủy đơn. Loại {C}: đơn cần xử lý sau khi khách đã đặt."
+    ],
+    "e": "Bài giảng nêu xác nhận đơn trong 2 đến 4 giờ. Chậm hơn thì khách có thể hủy đơn.",
+    "w": {
+      "A": "24 giờ là quá muộn, khách có thể hủy đơn.",
+      "C": "Bài giảng nêu mốc 2 đến 4 giờ sau live.",
+      "D": "Không đợi đến khi giao hàng mới xác nhận."
+    },
+    "q": "Thì thường là trong 2 đến 4 giờ thì các bạn phải xác định đơn hàng, xác nhận đơn hàng",
+    "k": ["process", "hậu cần", "xác nhận đơn hàng"]
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại nguyên tắc vàng của chuỗi 5P.",
+      "Tỉ lệ 80 và 20 phân chia thành công giữa khâu chuẩn bị và khâu lên hình.",
+      "Loại {A}, {C}, {D}: lên hình chỉ chiếm 20%, sản xuất và phân tích không phải khâu quyết định 80%."
+    ],
+    "e": "Quy tắc 80/20: 80% thành công đến từ khâu chuẩn bị (Pre-Live), 20% đến từ khâu lên hình.",
+    "w": {
+      "A": "Production là khâu sản xuất và dàn dựng.",
+      "C": "Performance chỉ chiếm 20%.",
+      "D": "Post-Live là khâu phân tích sau live."
+    },
+    "q": "80 thành công thành công của một viên lai nó đến từ khâu chuẩn bị, chỉ có 20% đến từ khâu lên hình",
+    "k": ["5P", "pre-live", "80/20"]
+  },
+  {
+    "a": "C", "c": "m",
+    "h": [
+      "Xác định điểm nghẽn của phễu: nhiều người xem nhưng ít người mua.",
+      "Người xem đã đến, vấn đề nằm ở cách dẫn dắt và chốt đơn trong phiên.",
+      "Loại {A}, {B}, {D}: thêm quảng cáo, hình ảnh sắc nét hay thêm nhân viên đóng gói không giải quyết việc khách không mua."
+    ],
+    "e": "Peak CCU cao nghĩa là phiên đã thu hút người xem. CVR thấp cho thấy cần xem lại kịch bản, tương tác và chốt đơn trong khâu Performance.",
+    "w": {
+      "A": "Thêm quảng cáo chỉ tăng người xem, không tăng chuyển đổi.",
+      "B": "Hình ảnh sắc nét không giải quyết việc khách không mua.",
+      "D": "Đóng gói là khâu sau khi đã có đơn."
+    },
+    "q": "Thứ ba đó là performance tức là các cái kịch bản và tương tác trong quá trình trong quá trình làm",
+    "k": ["CVR", "peak CCU", "performance"],
+    "n": "Transcript định nghĩa Performance là kịch bản và tương tác trong live. Việc chọn Performance cho tình huống Peak CCU cao nhưng CVR thấp là suy luận, bài không nêu tình huống này. 'Sự phù hợp của sản phẩm' thuộc khâu chuẩn bị theo transcript."
+  },
+  {
+    "a": "B", "c": "m",
+    "h": [
+      "Nhớ lại điểm nghẽn của thương mại điện tử truyền thống mà livestream giải quyết.",
+      "Khách chỉ thấy hình ảnh và thông tin do người bán cung cấp nên còn nhiều nghi ngại.",
+      "Loại {A}, {C}, {D}: bảo hành, ép giá sàn hay thanh toán nhanh không phải lý do tạo niềm tin."
+    ],
+    "e": "Streamer cho khách thấy sản phẩm thật và nghe tư vấn trực tiếp nên niềm tin tăng hơn so với hình ảnh quảng cáo tĩnh.",
+    "w": {
+      "A": "Bài giảng không nói streamer chịu bảo hành thay hãng.",
+      "C": "Bài giảng không nói streamer ép sàn giảm giá.",
+      "D": "Bài giảng không liên quan đến tốc độ thanh toán."
+    },
+    "q": "cho khách hàng thấy trực tiếp sản phẩm và cách sử dụng, nghe tư vấn trực tiếp, từ đó tăng cảm giác tin tưởng hơn",
+    "k": ["niềm tin", "streamer", "cá nhân hóa"],
+    "n": "Cụm 'Tín nhiệm cá nhân hóa' không xuất hiện nguyên văn. Transcript nói livestream tăng niềm tin nhờ thấy sản phẩm thật, nghe tư vấn trực tiếp, và khách mua từ một người họ yêu mến."
+  },
+  {
+    "a": "C", "c": "h",
+    "h": [
+      "Nhớ lại nhóm chỉ số chi phí trong báo cáo Post-Live.",
+      "ROAS gắn với tiền đầu tư vào quảng cáo và khuyến mãi.",
+      "Loại {A}, {B}, {D}: sức hấp dẫn, độ hài lòng và tốc độ đóng gói thuộc các chỉ số khác."
+    ],
+    "e": "ROAS đo hiệu quả đầu tư so với chi phí quảng cáo và khuyến mãi.",
+    "w": {
+      "A": "Sức hấp dẫn của streamer đo bằng lượt xem và tương tác.",
+      "B": "Độ hài lòng của khách không phải ý nghĩa của ROAS.",
+      "D": "Tốc độ đóng gói thuộc khâu Process."
+    },
+    "q": "các cái chi phí bao gồm quảng cáo, khuyến mãi, Rust để chúng ta đo cái hiệu quả của sự đầu tư",
+    "k": ["ROAS", "post-live"]
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại hai khái niệm kinh tế học hành vi gắn với livestream.",
+      "Một khái niệm nói về trải nghiệm, khái niệm kia nói về thứ khan hiếm trong thời đại internet.",
+      "Loại {A}, {C}, {D}: kinh tế tuần hoàn, chia sẻ và tri thức không được nhắc trong bài."
+    ],
+    "e": "Livestream thuộc kinh tế chú ý: thứ khan hiếm là sự chú ý của người tiêu dùng, và livestream chuyển sự chú ý thành hành vi mua.",
+    "w": {
+      "A": "Kinh tế tuần hoàn không được nhắc trong bài.",
+      "C": "Kinh tế chia sẻ không được nhắc trong bài.",
+      "D": "Kinh tế tri thức không được nhắc trong bài."
+    },
+    "q": "cái thứ khan hiếm không phải là sản phẩm mà chính là phải lấy được những cái sự chú ý của người tiêu dùng",
+    "k": ["kinh tế chú ý", "kinh tế trải nghiệm"]
+  }
+]

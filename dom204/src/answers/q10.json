@@ -1,0 +1,246 @@
+[
+  {
+    "a": "D", "c": "h",
+    "h": [
+      "Nhớ lại ba chiến lược kéo traffic ngoại sàn.",
+      "Chiến lược đầu phễu tập trung tạo nhu cầu và lòng tin trước khi khách có ý định mua.",
+      "Loại {A}: quảng cáo trả phí là chiến lược thứ hai. Loại {B}: sở hữu kênh là chiến lược thứ ba. Loại {C}: không phải chiến lược kéo traffic."
+    ],
+    "e": "Chiến lược Content và Sáng tạo xây lòng tin và nhu cầu ở đầu phễu bằng blog so sánh, hướng dẫn sử dụng và video unbox chân thực.",
+    "w": {
+      "A": "Quảng cáo trả phí là chiến lược thứ hai.",
+      "B": "Sở hữu khách hàng là chiến lược thứ ba.",
+      "C": "AOV Optimization thuộc phần tối ưu GMV, không phải chiến lược kéo traffic."
+    },
+    "q": "tạo ra những cái nội dung giải quyết vấn đề như một cái bài blog để so sánh này hay là một cái hướng dẫn sử dụng",
+    "k": ["content", "đầu phễu"]
+  },
+  {
+    "a": "D", "c": "h",
+    "h": [
+      "Nhớ lại định nghĩa và bản chất của GMV.",
+      "GMV là doanh số tổng thể, chưa trừ chi phí và chưa trừ đơn hoàn hủy.",
+      "Loại {A} và {B}: GMV không chờ đổi trả 30 ngày và không phải lợi nhuận. Loại {C}: GMV phản ánh quy mô."
+    ],
+    "e": "GMV tính cả đơn hủy, chưa thanh toán và hoàn tiền. Nó là thước đo quy mô, không phải lợi nhuận hay doanh thu thuần.",
+    "w": {
+      "A": "GMV không chờ thủ tục đổi trả.",
+      "B": "GMV là quy mô, không phải lợi nhuận.",
+      "C": "GMV phản ánh quy mô và thị phần, nên câu này sai."
+    },
+    "q": "bao gồm gồm tổng tất cả những cái đơn hàng kể cả đơn vàng hủy, đơn hàng chưa thanh toán",
+    "k": ["GMV", "doanh thu thuần"],
+    "n": "Phương án C chứa cụm 'KHÔNG PHẢI' có thể do lỗi soạn đề, giữ nguyên chữ của đề. Đáp án D đúng theo transcript, C sai vì transcript nói GMV là thước đo quy mô."
+  },
+  {
+    "a": "B", "c": "l", "nr": true,
+    "h": [
+      "Nghĩ về mục đích của sàn khi khuyến khích người bán đưa khách từ bên ngoài vào.",
+      "Sàn có thể thưởng cho người bán mang traffic ngoại sàn về, dưới dạng ưu đãi về phí.",
+      "Loại {A}, {C}, {D}: tiền mặt vào tài khoản cá nhân, miễn thuế và giảm giá nhập hàng không liên quan đến chính sách phí của sàn."
+    ],
+    "e": "Ngoài bài giảng: Brand Referral Bonus của Amazon hoàn lại một phần phí giới thiệu cho người bán khi họ tự đưa traffic từ ngoài sàn vào. Bài giảng chỉ nói quảng cáo ngoại sàn giúp bán hàng mà không phải chịu phí sàn.",
+    "w": {
+      "A": "Không phải khoản tiền mặt trả vào tài khoản cá nhân.",
+      "C": "Chính sách không miễn thuế kinh doanh.",
+      "D": "Chính sách không liên quan đến giá nhập hàng."
+    },
+    "q": "Và quảng cáo ngoại sàn là một cách để chúng ta ra tiền ngay mà không phải chịu phí sàn",
+    "k": ["traffic ngoại sàn", "phí sàn"],
+    "n": "Không có trong bài giảng. Transcript không đề cập Brand Referral Bonus, đoạn trích chỉ là đoạn gần nhất về ngoại sàn và phí sàn. Đáp án B dựa trên kiến thức ngoài bài giảng, cần đối chiếu đáp án chính thức."
+  },
+  {
+    "a": "C", "c": "h",
+    "h": [
+      "Nhớ lại phần giải pháp Affiliate trên TikTok Shop.",
+      "Thế mạnh nằm ở cách nội dung được phân phối trên nền tảng.",
+      "Loại {A}, {B}, {D}: miễn phí hàng hóa, tự thanh toán và thay vận chuyển không phải thế mạnh được nêu."
+    ],
+    "e": "TikTok Shop Affiliate tận dụng khả năng lan tỏa cao và thuật toán đề xuất nội dung để tăng chuyển đổi.",
+    "w": {
+      "A": "Bài giảng không nêu việc cung cấp hàng miễn phí.",
+      "B": "Bài giảng không nêu việc tự động thanh toán thay người mua.",
+      "D": "Bài giảng không nêu việc thay thế đơn vị vận chuyển."
+    },
+    "q": "khả năng lan tỏa của TikTok thì rất là cao. Tận dụng thuật toán đề xuất từ nội dung",
+    "k": ["affiliate", "lan tỏa"],
+    "n": "Con số 20 đến 30% trong transcript gắn với livestream, còn đề gắn với TikTok Shop Affiliate. Đáp án C vẫn là phương án duy nhất khớp với thế mạnh được nêu."
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại cách bài giảng phân loại khách hàng theo mức độ nhu cầu.",
+      "Nhóm này chưa có nhu cầu rõ nhưng dung lượng rất lớn.",
+      "Loại {A}, {C}, {D}: khách cũ, khách đang tìm mua ngay và khách đã biết sản phẩm là các nhóm đã có nhu cầu rõ."
+    ],
+    "e": "Tệp khách hàng lạnh chưa có nhu cầu nhưng có thể cân nhắc nếu được thuyết phục, dung lượng rất lớn.",
+    "w": {
+      "A": "Bài giảng không mô tả khách cũ là nhóm cần thuyết phục.",
+      "C": "Nhu cầu nóng sốt, cấp thiết là nhóm đang tìm mua ngay.",
+      "D": "Nhóm đã biết sản phẩm không được mô tả là nhóm cần chủ động thuyết phục."
+    },
+    "q": "tệp khách hàng lạnh tuy nhu cầu của họ chưa quá nét nhưng chúng ta cần chủ động giới thiệu, thuyết phục",
+    "k": ["khách hàng lạnh", "ngoại sàn"]
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại lý do làm thương hiệu cần chủ động tiếp cận khách.",
+      "Thương hiệu là một quá trình, không phải chờ khách tìm đến.",
+      "Loại {C} và {D}: bài giảng không nói mạng xã hội cam kết doanh số hay chi phí ngoại sàn rẻ hơn."
+    ],
+    "e": "Quảng cáo ngoại sàn cho phép chủ động tiếp cận, nuôi dưỡng kết nối và tăng khả năng khách quay lại mua.",
+    "w": {
+      "A": "Nội sàn vẫn hiển thị ảnh sản phẩm, phương án này sai về nội dung.",
+      "C": "Bài giảng không nói mạng xã hội cam kết doanh số.",
+      "D": "Bài giảng không nói chi phí ngoại sàn rẻ hơn mọi trường hợp."
+    },
+    "q": "một quá trình nuôi dưỡng nhắc nhở và tạo ra sự kết nối giữa thương hiệu và khách hàng",
+    "k": ["quảng cáo ngoại sàn", "thương hiệu"],
+    "n": "Phương án A chứa cụm 'KHÔNG PHẢI' có thể do lỗi soạn đề, giữ nguyên chữ của đề. Đáp án B khớp transcript. Phương án D nói chi phí ngoại sàn rẻ hơn trong mọi trường hợp, transcript không nói vậy."
+  },
+  {
+    "a": "A", "c": "h",
+    "h": [
+      "Nhớ lại bốn bên trong mô hình Affiliate và vai trò của nền tảng.",
+      "Nền tảng đứng giữa các bên và hỗ trợ theo dõi, báo cáo.",
+      "Loại {B}, {C}, {D}: không thay mặt thanh toán, không chịu trách nhiệm pháp lý hoàn toàn và không sản xuất hàng."
+    ],
+    "e": "Affiliate Network là trung gian kết nối nhà cung cấp với người tiếp thị, cung cấp công cụ theo dõi, báo cáo và bảo vệ quyền lợi các bên.",
+    "w": {
+      "B": "Không thay mặt người mua thanh toán.",
+      "C": "Bài giảng không nói chịu trách nhiệm pháp lý về chất lượng sản phẩm.",
+      "D": "Không sản xuất hàng hóa."
+    },
+    "q": "đơn vị trung gian kết nối cung cấp à kết nối nhà cung cấp và người tiếp thị, cung cấp các công cụ theo dõi",
+    "k": ["affiliate network", "trung gian"]
+  },
+  {
+    "a": "D", "c": "h",
+    "h": [
+      "Nhớ lại các cách nhận hoa hồng phổ biến trong Affiliate.",
+      "Hình thức phổ biến nhất gắn với đơn hàng thành công.",
+      "Loại {A}, {B}, {C}: CPM, CPL và CPC không dựa trên giá trị đơn hàng thành công."
+    ],
+    "e": "CPS là hoa hồng dựa trên giá trị đơn hàng thành công và là hình thức phổ biến nhất.",
+    "w": {
+      "A": "CPM không được nêu trong nhóm hoa hồng Affiliate.",
+      "B": "CPL tính theo số khách hàng tiềm năng.",
+      "C": "CPC tính theo lượt click, kể cả khi không phát sinh mua hàng."
+    },
+    "q": "CPS, C per sale, tức là hoa hồng dựa trên giá trị đơn hàng thành công",
+    "k": ["CPS", "hoa hồng"]
+  },
+  {
+    "a": ["A", "B", "C", "D"], "c": "h",
+    "h": [
+      "Nhớ lại bốn bên được nêu khi giới thiệu mô hình Affiliate.",
+      "Mỗi bên có một vai trò riêng từ cung cấp, quảng bá, mua hàng đến kết nối.",
+      "Hãy đối chiếu từng phương án với bốn vai trò đã nêu. Câu này không có phương án nhiễu."
+    ],
+    "e": "Bài giảng nêu bốn bên: nhà cung cấp, người tiếp thị, khách hàng mua qua link và nền tảng trung gian. Cả bốn phương án đều đúng.",
+    "w": {},
+    "q": "Thứ hai là người tiếp thị là người quảng bá sản phẩm thông qua các kênh nhận hoa hồng",
+    "k": ["affiliate", "nhà cung cấp", "người tiếp thị"],
+    "n": "Câu nhiều đáp án, cả bốn lựa chọn đều đúng: khách hàng cuối, mạng lưới Affiliate, nhà cung cấp, người tiếp thị."
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại pha cuối của AISAS và vòng lặp.",
+      "Khách hài lòng chia sẻ thông tin cho người thân, bạn bè.",
+      "Loại {A}, {C}, {D}: chia sẻ không làm gián đoạn tìm kiếm, không bỏ hậu mãi và không làm giảm CVR theo bài."
+    ],
+    "e": "Khi khách chia sẻ, thông tin lan đến người khác và tạo ra giai đoạn Chú ý mới, hình thành vòng lặp.",
+    "w": {
+      "A": "Chia sẻ không làm gián đoạn việc tìm kiếm của khách mới.",
+      "C": "Bài giảng không nói bỏ chương trình hậu mãi.",
+      "D": "Bài giảng không nói chia sẻ làm giảm CVR."
+    },
+    "q": "một cái vòng lập vô tận share tạo ra attention mới",
+    "k": ["AISAS", "share"],
+    "n": "Phương án C chứa cụm 'KHÔNG PHẢI' có thể do lỗi soạn đề, giữ nguyên chữ của đề."
+  },
+  {
+    "a": "C", "c": "h",
+    "h": [
+      "Nhớ lại vì sao ngoại sàn giúp giảm sự cạnh tranh của nội sàn.",
+      "Khi nội sàn khó khăn, người bán mở rộng ra nhóm khách chưa có nhu cầu.",
+      "Loại {A}, {B}, {D}: đóng shop, hạ giá nữa hay chỉ đấu thầu từ khóa giá cao đều không mở rộng tệp khách."
+    ],
+    "e": "Hướng bền vững là chủ động kéo traffic ngoại sàn từ tệp khách hàng lạnh và nuôi dưỡng thương hiệu đa kênh, giảm cạnh tranh giá nội sàn.",
+    "w": {
+      "A": "Bài giảng không khuyên đóng gian hàng.",
+      "B": "Hạ giá sâu hơn làm biên lợi nhuận thấp hơn nữa.",
+      "D": "Bài giảng khuyến khích làm nội dung, không bỏ nội dung."
+    },
+    "q": "Việc mở rộng tệp và chủ động tiếp cận, chủ động giới thiệu trên đến khách hàng thông qua hình thức ngoại sàn là một chiến lược tất yếu",
+    "k": ["traffic ngoại sàn", "cạnh tranh", "đa kênh"]
+  },
+  {
+    "a": "C", "c": "h",
+    "h": [
+      "Nhớ lại năm pha của AISAS.",
+      "Pha tìm kiếm nằm giữa hai pha đầu và hai pha sau.",
+      "Loại {A} và {D}: hành trình còn tiếp tục sau tìm kiếm và chia sẻ thuộc pha cuối. Loại {B}: bài giảng khuyên can thiệp ở bước này."
+    ],
+    "e": "Search là cầu nối giữa Interest và Action, nên nội dung blog, video review và từ khóa cần được đầu tư.",
+    "w": {
+      "A": "Tìm kiếm không phải bước kết thúc hành trình.",
+      "B": "Bài giảng khuyên tối ưu nội dung và từ khóa ở bước này.",
+      "D": "Chia sẻ là pha cuối Share."
+    },
+    "q": "Trong mô hình ISAS này thì giai đoạn tìm kiếm là cầu nối quan trọng nhất giữa quan tâm và mua hàng",
+    "k": ["AISAS", "tìm kiếm"],
+    "n": "Phương án B chứa cụm 'KHÔNG PHẢI' có thể do lỗi soạn đề, giữ nguyên chữ của đề. Transcript viết 'cầu nối quan trọng nhất', đề viết 'cầu nối chìa khóa'."
+  },
+  {
+    "a": "D", "c": "h",
+    "h": [
+      "Phân biệt gợi ý sản phẩm bổ trợ với gợi ý phiên bản cao cấp hơn.",
+      "Chiến lược này gợi ý sản phẩm liên quan, bổ trợ cho sản phẩm chính.",
+      "Loại {B}: nâng cấp lên phiên bản cao hơn. Loại {A}: gộp thành bộ. Loại {C}: tạo bằng chứng xã hội."
+    ],
+    "e": "Gợi ý bộ lọc thay thế khi khách mua máy lọc không khí là bán chéo (cross-selling).",
+    "w": {
+      "A": "Bundle là bán theo bộ, khác bán chéo.",
+      "B": "Up-selling là gợi ý phiên bản cao cấp hơn.",
+      "C": "Seeding là tạo đánh giá và đơn hàng ban đầu."
+    },
+    "q": "mua máy lọc không khí gợi ý thêm là mua bộ lọc thay thế hoặc là máy đo độ ẩm",
+    "k": ["cross-sell", "up-sell", "bundle"]
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại ưu điểm của website độc lập do doanh nghiệp tự xây.",
+      "Kênh do chính doanh nghiệp quản lý mang lại sự chủ động.",
+      "Loại {A}, {C}, {D}: bài giảng không nói miễn chi phí vận chuyển, không cần quảng cáo hay hết cạnh tranh."
+    ],
+    "e": "Website độc lập giúp xây thương hiệu riêng và làm chủ dữ liệu khách hàng.",
+    "w": {
+      "A": "Bài giảng không nêu tiết kiệm 100% chi phí vận chuyển.",
+      "C": "Vẫn cần hoạt động để khách biết đến website.",
+      "D": "Bài giảng không nói loại bỏ cạnh tranh."
+    },
+    "q": "xây dựng thương hiệu độc lập và làm chủ về mặt dữ liệu khách hàng",
+    "k": ["website", "dữ liệu khách hàng"]
+  },
+  {
+    "a": "D", "c": "h",
+    "h": [
+      "Nhớ lại ví dụ siêu thị giai đoạn đầu và giai đoạn sau.",
+      "Sau khi đông khách, sàn ưu tiên vị trí đẹp cho một nhóm gian hàng.",
+      "Loại {A}, {B}, {C}: không phải lý do nêu trong bài."
+    ],
+    "e": "Sàn đưa vị trí đẹp cho gian hàng trả nhiều tiền hoặc bán tốt, nên gian hàng nhỏ bị đẩy ra vùng rìa.",
+    "w": {
+      "A": "Bài giảng không nói thuật toán chỉ nhận diện thương hiệu toàn cầu.",
+      "B": "Bài giảng không nói người mua chỉ tìm hàng giá cao.",
+      "C": "Thuế không phải lý do bị đẩy ra vùng rìa."
+    },
+    "q": "họ sẽ ưu tiên những cái gian hàng nào trả nhiều tiền để thuê hoặc là bán tốt",
+    "k": ["nội sàn", "vị trí đẹp", "nhà bán nhỏ"],
+    "n": "Phương án C chứa cụm 'KHÔNG PHẢI' có thể do lỗi soạn đề, giữ nguyên chữ của đề."
+  }
+]

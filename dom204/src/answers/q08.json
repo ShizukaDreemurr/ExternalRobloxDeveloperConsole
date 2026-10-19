@@ -1,0 +1,245 @@
+[
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại khái niệm value based optimization của TikTok.",
+      "Thay vì chỉ tìm thật nhiều người mua, hệ thống còn xét giá trị mà mỗi nhóm khách có thể mang lại.",
+      "Loại {C}: hệ thống không đối xử như nhau. Loại {A} và {D}: bài giảng không nói về lượt xem hay ép giá CPC."
+    ],
+    "e": "Value based là tối ưu theo giá trị. Hệ thống phân khách thành các tệp khác nhau và ưu tiên người có khả năng mua với giá trị cao hơn.",
+    "w": {
+      "A": "Mục tiêu không phải là lượt xem.",
+      "C": "TikTok phân khách thành các tệp khác nhau, không cào bằng.",
+      "D": "Bài giảng không nói sàn ép giá CPC xuống mức thấp nhất."
+    },
+    "q": "không chỉ tìm người có khả năng mua hàng mà cần tìm những cái người có khả năng mua với giá trị cao hơn",
+    "k": ["value based", "giá trị khách hàng"]
+  },
+  {
+    "a": "A", "c": "h",
+    "h": [
+      "Nhớ lại ba nhóm tiêu chí để đánh giá video trong GMV Max.",
+      "Ba nhóm gồm chỉ số kinh doanh, chỉ số phụ về nội dung và cảm quan của nhà bán.",
+      "Loại {B}, {C}, {D}: đây là ba nhóm tiêu chí đã nêu trong bài."
+    ],
+    "e": "Bài giảng nêu ba nhóm tiêu chí: chỉ số chính về kinh doanh, chỉ số phụ như CTR và tỉ lệ xem video 3 giây hoặc 6 giây, và đánh giá chủ quan. Số video của đối thủ không thuộc nhóm nào.",
+    "w": {
+      "B": "Chi phí mỗi đơn và ROI thuộc nhóm chỉ số chính.",
+      "C": "Tỉ lệ xem video trong vài giây đầu thuộc nhóm chỉ số phụ.",
+      "D": "Đánh giá chủ quan là tiêu chí thứ ba."
+    },
+    "q": "Chúng ta phân thành ba nhóm chỉ số quan trọng",
+    "k": ["chỉ số chính", "đánh giá chủ quan", "GMV Max"],
+    "n": "Đề ghi tỉ lệ xem video trong 2s, 6s còn transcript nói 3 giây hoặc 6 giây. Chi tiết này không ảnh hưởng đáp án."
+  },
+  {
+    "a": "C", "c": "h",
+    "h": [
+      "Nhớ lại ví dụ miếng bọt biển trong phần mở đầu thực hành quảng cáo TikTok.",
+      "Khách đã thấy quá nhiều quảng cáo nên phản ứng nhanh hơn trước.",
+      "Loại {A}, {B}, {D}: đây không phải khóa tài khoản, mất khả năng thanh toán hay tương tác tự nhiên."
+    ],
+    "e": "Miễn dịch quảng cáo là khi nội dung quảng cáo bão hòa, tỉ lệ click giảm và khách vuốt qua nhanh hơn.",
+    "w": {
+      "A": "Không liên quan đến vi phạm chính sách.",
+      "B": "Không liên quan đến khả năng thanh toán.",
+      "D": "Tương tác tự nhiên cao không phải hiện tượng này."
+    },
+    "q": "Khách hàng của chúng ta đã đến một cái giai đoạn họ cực kỳ dị ứng và thường là họ sẽ bỏ qua những cái chiến dịch quảng cáo",
+    "k": ["miễn dịch quảng cáo", "bão hòa"]
+  },
+  {
+    "a": ["A", "B", "C", "D"], "c": "h",
+    "h": [
+      "Nhớ lại danh sách các hình thức quảng cáo phổ biến nhất của TikTok Ads.",
+      "Bài giảng mô tả các hình thức theo cách chúng xuất hiện trước người dùng.",
+      "Hãy đối chiếu từng phương án với danh sách trong bài. Câu này không có phương án nhiễu."
+    ],
+    "e": "Bài giảng nêu bốn hình thức: In-Feed, Take over, Hashtag Challenge và Branded Effect. Cả bốn phương án đều đúng.",
+    "w": {},
+    "q": "Take over tức là quảng cáo hiển thị ngay khi mà chúng ta mở ứng dụng",
+    "k": ["TikTok Ads", "take over", "hashtag challenge", "branded effect"],
+    "n": "Câu nhiều đáp án, cả bốn lựa chọn đều đúng. Brand Takeover trong đề tương ứng Take over trong bài giảng."
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "ROI mục tiêu liên hệ giá bán với chi phí quảng cáo chấp nhận cho một đơn.",
+      "Công thức: giá bán chia cho chi phí quảng cáo chấp nhận cho 1 đơn.",
+      "Chi phí QC cho 1 đơn là 10k nên ROI bằng 200k chia 10k. Các phương án ROI 40, 5 và 10 không khớp phép chia này."
+    ],
+    "e": "Lợi nhuận gộp 20k, chi một nửa cho quảng cáo nên chi phí QC cho 1 đơn là 10k. ROI mục tiêu = 200k / 10k = 20.",
+    "w": {
+      "A": "ROI 40 ứng với chi phí QC 5k cho 1 đơn.",
+      "C": "ROI 5 ứng với chi phí QC 40k, vượt lợi nhuận gộp 20k.",
+      "D": "ROI 10 ứng với chi phí QC 20k, dùng hết lợi nhuận gộp."
+    },
+    "q": "Như vậy Roy của các bạn sẽ chạy từ 10 cho đến 20",
+    "k": ["ROI mục tiêu", "chi phí quảng cáo"],
+    "n": "Phép tính: chi phí QC cho 1 đơn = 20k / 2 = 10k. ROI mục tiêu = 200k / 10k = 20. Transcript nêu ví dụ cùng số liệu với khoảng ROI từ 10 đến 20."
+  },
+  {
+    "a": "A", "c": "h",
+    "h": [
+      "Nhớ lại đặc điểm số bốn của GMV Max: giai đoạn máy học.",
+      "Chiến dịch cần thời gian học dữ liệu khách hàng và sản phẩm trước khi ổn định.",
+      "Loại {C}: không thể ổn định ngay khi xuất bản. Loại {D}: số đánh giá 5 sao không phải điều kiện. Loại {B}: bài giảng không nêu mốc 30 ngày."
+    ],
+    "e": "Learning phase của GMV Max thường kéo dài tới 7 ngày để hệ thống học dữ liệu khách hàng và sản phẩm.",
+    "w": {
+      "B": "Bài giảng không nêu mốc 30 ngày.",
+      "C": "Chiến dịch tự động cần thời gian học nên không ổn định ngay.",
+      "D": "Bài giảng không đặt điều kiện 1000 đánh giá 5 sao."
+    },
+    "q": "thông thường là lên tới 7 ngày",
+    "k": ["learning phase", "GMV Max"],
+    "n": "Transcript có hai con số: 'lên tới 7 ngày' (đặc điểm số bốn của GMV Max) và 'khoảng 50 đến 100 đơn hàng' (phần so sánh với quảng cáo thủ công). Đề chỉ có phương án 7 ngày nên chọn A."
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại cách khoán giá thầu cho người mới, dùng giá bán nhân với phần trăm chi cho quảng cáo và tỉ lệ chuyển đổi.",
+      "Công thức: giá bán x %QC dự kiến x %CVR dự kiến, với giả định thực tế là 20% và 2%.",
+      "Loại {A}, {C}, {D}: phí sàn, ngân sách chia 100 và chi phí nhập hàng không nằm trong công thức."
+    ],
+    "e": "Giá thầu = Giá bán x 20% x 2% = Giá bán x 0.4%. Với giá bán 200k, giá thầu khởi điểm là 800 đồng cho một click.",
+    "w": {
+      "A": "Công thức không dùng phí sàn.",
+      "C": "Công thức không dựa vào ngân sách ngày.",
+      "D": "Công thức không dùng chi phí nhập hàng."
+    },
+    "q": "Giá bán nhân với 0.4 là chúng ta ra giá thầu",
+    "k": ["giá thầu khoán", "giá thầu", "CPC"],
+    "n": "Transcript đọc là 'nhân với 0.4', hiểu là 0.4% (20% x 2%). Ví dụ 200k x 0.4% = 800 đồng khớp với con số giá thầu nêu trong bài."
+  },
+  {
+    "a": "A", "c": "h",
+    "h": [
+      "Nhớ lại việc GMV Max học không chỉ từ quảng cáo trả phí.",
+      "Hệ thống thu thập tín hiệu từ nhiều nguồn trên hệ sinh thái TikTok Shop.",
+      "Loại {B}, {C}, {D}: không chỉ dựa vào click trả phí, hashtag hay số tiền nạp."
+    ],
+    "e": "GMV Max tổng hợp tín hiệu từ quảng cáo, Affiliate và Organic để hiểu nhóm khách, video và sản phẩm hiệu quả nhất.",
+    "w": {
+      "B": "Không chỉ dựa vào click quảng cáo trả phí.",
+      "C": "Hashtag không phải nguồn tín hiệu được nêu.",
+      "D": "Số tiền nạp không phải tín hiệu để hệ thống học."
+    },
+    "q": "những tín hiệu quảng cáo, tín hiệu từ offet, tín hiệu từ organic",
+    "k": ["GMV Max", "tín hiệu", "organic"]
+  },
+  {
+    "a": "C", "c": "h",
+    "h": [
+      "Nhớ lại ví dụ ngân sách 1 triệu đồng.",
+      "Facebook và TikTok dàn đều ngân sách theo thời gian, còn Shopee thì khác.",
+      "Loại {D} và {B}: đó là cách vận hành của Facebook và TikTok. Loại {A}: Shopee không tự đặt lịch."
+    ],
+    "e": "Shopee có thể tiêu hết ngân sách trong thời gian ngắn và không có trách nhiệm tiêu đều tiền, khác với Facebook và TikTok dàn đều trong 24 giờ.",
+    "w": {
+      "A": "Người bán phải tự phân bổ ngân sách theo khung giờ, Shopee không tự đặt lịch.",
+      "B": "Bài giảng không nói Facebook và TikTok chỉnh giá thầu thủ công cho từng từ khóa.",
+      "D": "Dàn đều 24 giờ là cơ chế của Facebook và TikTok."
+    },
+    "q": "Shopee cũng sẽ không có trách nhiệm tiêu tiền trong một ngày mà nó có thể tiêu thốc trong một cái khoảng thời gian rất là nhanh",
+    "k": ["ngân sách", "tiêu thốc", "Shopee Ads"]
+  },
+  {
+    "a": "A", "c": "h",
+    "h": [
+      "Nhớ lại ba yếu tố xếp hạng quảng cáo của Shopee.",
+      "Điểm liên quan đo mức độ phù hợp giữa sản phẩm và từ khóa khách tìm kiếm.",
+      "Loại {B}, {C}, {D}: kinh nghiệm chủ shop, số lượng tồn kho và tốc độ chat không phải căn cứ của điểm liên quan."
+    ],
+    "e": "Điểm liên quan được Shopee căn cứ vào hiệu suất CTR trước đó của sản phẩm.",
+    "w": {
+      "B": "Số năm kinh nghiệm không được nêu trong bài.",
+      "C": "Số lượng tồn kho không được nêu trong bài.",
+      "D": "Tốc độ trả lời chat thuộc yếu tố hiệu suất vận hành, không phải điểm liên quan."
+    },
+    "q": "Shopee căn cứ vào hiệu suất CTR trước đó để mà có thể đánh giá",
+    "k": ["xếp hạng quảng cáo", "điểm liên quan", "CTR"]
+  },
+  {
+    "a": "D", "c": "m",
+    "h": [
+      "Nghĩ về việc người chạy GMV Max cần theo dõi thường xuyên điều gì.",
+      "Mỗi video có một trạng thái phản ánh mức ưu tiên phân phối của hệ thống.",
+      "Loại {A}, {B}, {C}: tạo lại chiến dịch, tăng gấp đôi ngân sách hay giảm giá thầu đều bỏ qua nguyên nhân từ video."
+    ],
+    "e": "Khi chiến dịch tiêu chậm và ROI giảm, bước hợp lý là kiểm tra trạng thái các video win. Video bị chuyển sang không phân phối thì cần thay bằng nội dung mới.",
+    "w": {
+      "A": "Bài giảng không khuyên xóa và tạo lại chiến dịch.",
+      "B": "Bài giảng không khuyên ép phân phối bằng cách tăng ngân sách.",
+      "C": "Giảm giá thầu CPC không phải cách xử lý trong GMV Max."
+    },
+    "q": "việc theo dõi trạng thái của video là một cái công việc cực kỳ quan trọng",
+    "k": ["trạng thái video", "không phân phối", "creative boost"],
+    "n": "Transcript không có đúng tình huống này. Đáp án D suy ra từ yêu cầu theo dõi trạng thái video và nguyên tắc thay video không phân phối. Các phương án A, B, C đi ngược nguyên tắc tối ưu GMV Max."
+  },
+  {
+    "a": "C", "c": "h",
+    "h": [
+      "Nhớ lại các đặc điểm cốt lõi của GMV Max.",
+      "GMV Max hướng đến tự động hóa, người bán chủ yếu đặt mục tiêu và ngân sách.",
+      "Loại {A}, {B}, {D}: đây đều là đặc điểm đã được nêu trong bài."
+    ],
+    "e": "GMV Max tự động chọn từ khóa, đấu thầu và vị trí hiển thị, nên người bán không can thiệp thủ công vào từng phiên đấu giá.",
+    "w": {
+      "A": "Đây là ưu điểm: tối ưu theo mục tiêu doanh thu và ROAS.",
+      "B": "Đây là ưu điểm: phân phối đa kênh trên hệ sinh thái.",
+      "D": "Đây là ưu điểm: tự động hóa chọn từ khóa và đấu thầu."
+    },
+    "q": "Hệ thống sẽ tự động chọn từ khóa này, đấu thầu giá này và lựa chọn những cái vị trí hiển thị",
+    "k": ["GMV Max", "tự động"],
+    "n": "Câu hỏi tìm đặc điểm KHÔNG PHẢI ưu điểm của GMV Max. Phương án C trái với tính tự động hóa của GMV Max nên là đáp án."
+  },
+  {
+    "a": "C", "c": "h",
+    "h": [
+      "Nhớ lại ví dụ siêu thị và trung tâm thương mại.",
+      "Một nền tảng khách chủ động tìm theo nhu cầu, một nền tảng chủ động đưa sản phẩm đến theo sở thích.",
+      "Loại {A}: đảo ngược vai trò. Loại {B} và {D}: không khớp với bài giảng."
+    ],
+    "e": "Shopee là nền tảng người tìm hàng, giống siêu thị. TikTok là hàng tìm người dựa trên sở thích, giống trung tâm thương mại.",
+    "w": {
+      "A": "Đảo ngược vai trò của Shopee và TikTok.",
+      "B": "TikTok còn là nơi giải trí, không chỉ là kệ trưng bày.",
+      "D": "Cả hai nền tảng đều bán hàng, không phải TikTok bán còn Shopee giải trí."
+    },
+    "q": "Shopee chính là một cái nền tảng người tìm hàng",
+    "k": ["người tìm hàng", "hàng tìm người"]
+  },
+  {
+    "a": "D", "c": "h",
+    "h": [
+      "Nhớ lại phần đặc điểm chính của quảng cáo Shopee.",
+      "Người bán trả phí khi khách thực hiện một thao tác cụ thể với quảng cáo.",
+      "Loại {A}, {B}, {C}: CPM, CPA theo giỏ hàng và CPS không phải mô hình chủ yếu của Shopee Ads."
+    ],
+    "e": "Shopee Ads tính phí chủ yếu theo CPC, người bán trả tiền khi khách nhấp vào quảng cáo.",
+    "w": {
+      "A": "CPM không phải mô hình chủ yếu.",
+      "B": "CPA theo giỏ hàng không được nêu.",
+      "C": "CPS là hình thức hoa hồng của Affiliate."
+    },
+    "q": "Thứ hai là cái mô hình tính phí của nền tảng hiện nay phổ biến nhất vẫn là mô hình tính phí chủ yếu dựa trên CPC",
+    "k": ["CPC", "Shopee Ads"]
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại khi nào chọn video thủ công thay vì để hệ thống tự động.",
+      "Chọn thủ công phù hợp khi cần kiểm soát hoặc đã có dữ liệu về video hiệu quả.",
+      "Loại {A} và {D}: tự động phù hợp khi mới bắt đầu và chưa có dữ liệu. Loại {C}: bài giảng không nêu video Affiliate tốt là dấu hiệu chuyển sang thủ công."
+    ],
+    "e": "Nên chuyển sang chọn video thủ công khi ngân sách bắt đầu đổ vào video không mong muốn hoặc kém hiệu quả.",
+    "w": {
+      "A": "Để TikTok tự tìm đối tượng là lợi thế của chế độ tự động.",
+      "C": "Bài giảng không nêu video Affiliate tốt là lý do chuyển sang thủ công.",
+      "D": "Giai đoạn mới bắt đầu nên để tự động để hệ thống khám phá."
+    },
+    "q": "khi bắt đầu thấy ngân sách bị phân phối vào những video không mong muốn",
+    "k": ["chọn thủ công", "creative boost"]
+  }
+]

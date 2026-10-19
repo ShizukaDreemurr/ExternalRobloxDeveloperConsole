@@ -1,0 +1,247 @@
+[
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại định nghĩa SEO sản phẩm trong nhóm công cụ marketing nội sàn.",
+      "SEO là quá trình tối ưu thông tin sản phẩm theo những từ khóa khách hay tìm trên sàn.",
+      "Loại {C} và {D}: SEO liên quan đến hiển thị, không liên quan đến giá hay việc giảm truy cập."
+    ],
+    "e": "SEO sản phẩm là tối ưu nội dung để tăng khả năng sản phẩm xuất hiện khi khách tìm kiếm từ khóa liên quan.",
+    "w": {
+      "A": "SEO không phải công cụ giảm chi phí marketing.",
+      "C": "SEO nhằm tăng chứ không giảm lượt truy cập.",
+      "D": "SEO không thay đổi giá bán."
+    },
+    "q": "để tăng cái khả năng xuất hiện của sản phẩm khi mà khách hàng tìm kiếm từ khóa trên sàn",
+    "k": ["SEO sản phẩm", "từ khóa"]
+  },
+  {
+    "a": "A", "c": "h",
+    "h": [
+      "Nghĩ về ba mục tiêu mà một chương trình marketing nội sàn hướng tới.",
+      "Marketing nội sàn tác động đến lượng khách vào shop, tỉ lệ mua và giá trị mỗi đơn hàng.",
+      "Loại {B}, {C}, {D}: mỗi phương án giới hạn tác động vào một yếu tố duy nhất."
+    ],
+    "e": "Bài giảng nêu khi kết hợp hợp lý các công cụ, gian hàng vừa tăng traffic, vừa tăng chuyển đổi, vừa tăng giá trị đơn hàng.",
+    "w": {
+      "B": "Công cụ nội sàn ảnh hưởng đến kết quả kinh doanh.",
+      "C": "Không chỉ tăng truy cập, còn tăng chuyển đổi và giá trị đơn.",
+      "D": "Không chỉ tăng số đơn, còn tác động đến giá trị mỗi đơn."
+    },
+    "q": "vừa tăng traffic vừa vừa tăng chuyển đổi đồng thời lại vừa tăng cái giá trị đơn hàng",
+    "k": ["traffic", "chuyển đổi", "giá trị đơn hàng"]
+  },
+  {
+    "a": "B", "c": "m",
+    "h": [
+      "Nhớ lại nguyên tắc chọn sản phẩm khi tham gia Flash Sale.",
+      "Nên chọn sản phẩm có nhu cầu cao hoặc sản phẩm chủ lực của gian hàng.",
+      "Loại {C}: sản phẩm không phù hợp không làm tăng uy tín. Loại {A} và {D}: bài giảng yêu cầu chọn sản phẩm có nhu cầu, không coi giảm giá là đủ."
+    ],
+    "e": "Bài giảng yêu cầu chọn sản phẩm nhu cầu cao hoặc chủ lực khi chạy Flash Sale. Chọn sản phẩm không phù hợp thì hiệu quả thấp là suy ra từ nguyên tắc này.",
+    "w": {
+      "A": "Bài giảng không coi giảm giá là đủ nếu thiếu nhu cầu.",
+      "C": "Sản phẩm không phù hợp không tạo thêm uy tín.",
+      "D": "Bài giảng không nói Flash Sale tự có traffic."
+    },
+    "q": "nên lựa chọn những cái sản phẩm có nhu cầu cao hoặc các sản phẩm chủ lực của gian hàng",
+    "k": ["flash sale", "sản phẩm chủ lực"],
+    "n": "Transcript nêu nguyên tắc chọn sản phẩm cho Flash Sale nhưng không nêu thẳng hậu quả khi chọn sai. Đáp án B suy ra từ nguyên tắc này."
+  },
+  {
+    "a": "D", "c": "h",
+    "h": [
+      "Nhớ lại ví dụ nước tẩy trang và bông tẩy trang.",
+      "Chương trình cho phép mua thêm sản phẩm phụ khi đã chọn sản phẩm chính.",
+      "Loại {A}, {B}, {C}: giảm giá sản phẩm chính, giảm phí ship hay tăng giá rồi giảm không phải cơ chế của chương trình."
+    ],
+    "e": "Mua kèm deal sốc cho khách mua thêm sản phẩm phụ với giá ưu đãi sau khi đã thêm sản phẩm chính vào giỏ hàng.",
+    "w": {
+      "A": "Mức giảm áp dụng cho sản phẩm mua kèm, không phải sản phẩm chính.",
+      "B": "Chương trình không nhắm vào phí vận chuyển.",
+      "C": "Tăng giá rồi giảm là hành vi vi phạm đã nêu ở Bài 6."
+    },
+    "q": "khách hàng chỉ có thể mua sản phẩm ưu đãi này khi đã thêm sản phẩm chính và giỏ hàng",
+    "k": ["mua kèm deal sốc", "sản phẩm mua kèm"]
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại cách tính phí của chương trình Affiliate.",
+      "Người bán chỉ trả hoa hồng khi có kết quả cụ thể phát sinh.",
+      "Loại {A}, {C} và {D}: không có phí cố định, không trả trước, và cũng không phải hoàn toàn miễn phí."
+    ],
+    "e": "Với tiếp thị liên kết, hệ thống ghi nhận đơn hàng và tính hoa hồng, người bán chỉ trả phí khi có đơn hàng phát sinh.",
+    "w": {
+      "A": "Không có chi phí cố định hằng tháng.",
+      "C": "Phí không trả trước mà tính khi có đơn.",
+      "D": "Vẫn phải trả hoa hồng khi có đơn."
+    },
+    "q": "người bán sẽ chỉ trả phí khi mà có đơn hàng phát sinh",
+    "k": ["affiliate", "hoa hồng"]
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nghĩ về yếu tố tâm lý mà việc giới hạn khung giờ tạo ra.",
+      "Giảm giá trong khung giờ ngắn nhằm kích thích nhu cầu mua nhanh.",
+      "Loại {A}: tăng giá trước khi giảm là vi phạm. Loại {D}: chương trình này ngắn hạn, không kéo dài."
+    ],
+    "e": "Flash Sale của shop giảm giá trong khung giờ ngắn, khiến khách ra quyết định nhanh do bị giới hạn thời gian.",
+    "w": {
+      "A": "Tăng giá trước khi giảm là hành vi vi phạm.",
+      "C": "Mục tiêu chính là kích thích mua nhanh, không chỉ tăng hiển thị.",
+      "D": "Flash Sale là chương trình ngắn, không kéo dài."
+    },
+    "q": "Khách hàng thì sẽ có xu hướng là ra quyết định nhanh do cái yếu tố thời gian bị giới hạn",
+    "k": ["flash sale", "khung giờ"]
+  },
+  {
+    "a": "D", "c": "m",
+    "h": [
+      "Nghĩ về mối quan hệ giữa nội dung sản phẩm và hiệu quả quảng cáo.",
+      "Quảng cáo chỉ đưa sản phẩm đến nhiều người hơn, kết quả còn phụ thuộc vào chính sản phẩm.",
+      "Loại {A}, {B}, {C}: bài giảng không nói quảng cáo luôn mang lại đơn hay tự tăng chuyển đổi."
+    ],
+    "e": "Quảng cáo chỉ hiển thị sản phẩm đến nhiều người và nên kết hợp tối ưu nội dung sản phẩm. Nếu nội dung chưa tốt, chi phí quảng cáo khó mang lại hiệu quả tương xứng.",
+    "w": {
+      "A": "Nội dung chưa tối ưu không giúp tăng đơn nhanh.",
+      "B": "Quảng cáo không tự tăng tỉ lệ chuyển đổi.",
+      "C": "Quảng cáo không bảo đảm ra đơn."
+    },
+    "q": "quảng cáo sẽ biến một cái sản phẩm tốt trở nên tốt hơn còn nó sẽ không có khả năng biến một cái sản phẩm tồi",
+    "k": ["quảng cáo trả phí", "tối ưu nội dung"],
+    "n": "Transcript nêu quảng cáo nên kết hợp tối ưu nội dung sản phẩm (Bài 7) và quảng cáo không biến sản phẩm tồi thành tốt (Bài 8). Hệ quả 'tốn chi phí nhưng không hiệu quả' là suy ra."
+  },
+  {
+    "a": "D", "c": "h",
+    "h": [
+      "Nhớ lại chiến lược thứ tư trong bốn chiến lược tối ưu GMV.",
+      "Hiệu quả marketing trên sàn thường đến từ việc dùng nhiều công cụ cùng lúc.",
+      "Loại {A}, {B}, {C}: mỗi phương án chỉ dùng một công cụ đơn lẻ."
+    ],
+    "e": "Bài giảng nêu muốn tối ưu GMV cần kết hợp nhiều công cụ tác động đến các yếu tố khác nhau trong hành trình mua hàng.",
+    "w": {
+      "A": "Chỉ tăng giá không làm tăng đơn hàng.",
+      "B": "Chỉ quảng cáo mới tăng traffic, còn thiếu khâu chuyển đổi.",
+      "C": "Chỉ giảm giá bỏ qua traffic và giá trị đơn hàng."
+    },
+    "q": "người bán không chỉ dựa vào một công cụ marketing riêng lẻ mà cần kết hợp các công cụ marketing khác nhau",
+    "k": ["tối ưu GMV", "hành trình mua hàng"]
+  },
+  {
+    "a": "A", "c": "h",
+    "h": [
+      "Nhớ lại định nghĩa Shopee Video trong nhóm công cụ tăng lượt truy cập.",
+      "Đây là công cụ nội dung video ngắn nhằm giới thiệu sản phẩm.",
+      "Loại {B}, {C}, {D}: video không trực tiếp giảm chi phí vận hành, tăng giá bán hay tăng tồn kho."
+    ],
+    "e": "Shopee Video giúp shop giới thiệu sản phẩm bằng video ngắn để thu hút người xem và tăng khả năng tiếp cận.",
+    "w": {
+      "B": "Video không nhằm giảm chi phí vận hành.",
+      "C": "Video không nhằm tăng giá bán.",
+      "D": "Video không liên quan đến tồn kho."
+    },
+    "q": "nhằm thu hút sự chú ý của người mua và tăng khả năng tiếp cận sản phẩm",
+    "k": ["Shopee Video", "video ngắn"]
+  },
+  {
+    "a": "A", "c": "h",
+    "h": [
+      "Nghĩ về lợi ích của việc khách hàng bấm theo dõi gian hàng.",
+      "Ưu đãi dành riêng cho người theo dõi nhằm xây dựng một nhóm khách hàng đặc biệt.",
+      "Loại {B}, {C}, {D}: mục tiêu là lâu dài, không phải lượng truy cập ngắn hạn, số sản phẩm hay giảm chi phí quảng cáo ngay."
+    ],
+    "e": "Ưu đãi follower khuyến khích khách theo dõi shop, giúp xây dựng tệp khách hàng trung thành.",
+    "w": {
+      "B": "Mục tiêu dài hạn là tệp trung thành, không chỉ truy cập ngắn hạn.",
+      "C": "Chương trình không làm tăng số sản phẩm trong gian hàng.",
+      "D": "Bài giảng không nói giảm chi phí quảng cáo ngay."
+    },
+    "q": "Nên sử dụng ưu đãi follower để xây dựng những cái tệp khách hàng trung thành",
+    "k": ["ưu đãi follower", "khách hàng trung thành"]
+  },
+  {
+    "a": "C", "c": "m",
+    "h": [
+      "Nhớ lại phần cập nhật về chương trình khuyến mãi của shop so với lúc mới ra mắt.",
+      "Bài giảng nhận xét về mức độ hiểu biết của khách hàng ngày nay.",
+      "Loại {A} và {D}: chương trình vẫn tồn tại và vẫn hiển thị hiệu ứng giảm giá. Loại {B}: bài giảng không nêu lý do giá cao."
+    ],
+    "e": "Khách hàng hiện nay thông minh nên hiệu ứng giảm giá của chương trình không tác động nhiều tới quyết định mua.",
+    "w": {
+      "A": "Chương trình vẫn đang được Shopee cung cấp.",
+      "B": "Bài giảng không nói giá sản phẩm trên sàn tăng.",
+      "D": "Sản phẩm vẫn hiện giá gạch và nhãn giảm giá."
+    },
+    "q": "nó cũng không tác động quá nhiều tới cái quyết định mua của khách hàng",
+    "k": ["khuyến mãi của shop", "quyết định mua"],
+    "n": "Transcript nói khách hàng thông minh và hiệu ứng giảm giá không tác động nhiều tới quyết định mua. Cụm 'không còn tin' và 'hiển thị cho đẹp' là cách diễn đạt của đề, ý khớp nhưng không trùng chữ."
+  },
+  {
+    "a": "D", "c": "h",
+    "h": [
+      "Nghĩ về hành trình mua hàng gồm nhiều giai đoạn.",
+      "Mỗi công cụ marketing nội sàn đảm nhận một vai trò khác nhau, ví dụ quảng cáo đưa khách đến trang sản phẩm.",
+      "Loại {A} và {B}: không có quy định bắt buộc hay hạn chế hiển thị. Loại {C}: bài giảng không nói kết hợp công cụ sẽ giảm chi phí."
+    ],
+    "e": "Quảng cáo đưa khách đến trang sản phẩm, Flash Sale và mã giảm giá thúc đẩy quyết định mua, combo tăng giá trị đơn hàng. Mỗi công cụ chỉ phụ trách một phần hành trình.",
+    "w": {
+      "A": "Dùng một công cụ vẫn hiển thị được trên sàn.",
+      "B": "Bài giảng không nói Shopee bắt buộc dùng nhiều công cụ cùng lúc.",
+      "C": "Bài giảng không nói kết hợp công cụ sẽ giảm chi phí marketing."
+    },
+    "q": "nhằm tác động đến những cái yếu tố trong hành trình mua hàng của khách hàng",
+    "k": ["hành trình mua hàng", "marketing nội sàn"]
+  },
+  {
+    "a": "B", "c": "m",
+    "h": [
+      "Nhớ lại nguyên tắc chọn sản phẩm đưa vào combo khuyến mãi.",
+      "Combo thường áp dụng cho các sản phẩm có liên quan hoặc dùng cùng nhau.",
+      "Loại {A}, {C}, {D}: bài giảng không cho rằng sản phẩm rời rạc làm khách mua nhiều hơn hay không ảnh hưởng gì."
+    ],
+    "e": "Combo nên gồm sản phẩm có liên hệ về nhu cầu hoặc công năng. Nếu không liên quan, combo khó phù hợp nhu cầu thực tế nên khách khó quyết định.",
+    "w": {
+      "A": "Bài giảng không nói giảm giá bù được cho combo không liên quan.",
+      "C": "Combo không phù hợp có thể ảnh hưởng quyết định mua.",
+      "D": "Số lượng sản phẩm không phải yếu tố thu hút theo bài giảng."
+    },
+    "q": "chúng ta nên lựa chọn các sản phẩm có mối liên hệ và về nhu cầu hoặc công năng sử dụng",
+    "k": ["combo", "công năng"],
+    "n": "Transcript nêu nên chọn sản phẩm có liên hệ về nhu cầu hoặc công năng, nhưng không nêu thẳng hậu quả khi gộp sản phẩm không liên quan. Đáp án B suy ra từ nguyên tắc này."
+  },
+  {
+    "a": "D", "c": "m",
+    "h": [
+      "Nghĩ về những gì một sản phẩm mới đăng còn thiếu để có đơn đều đặn.",
+      "Công cụ marketing nội sàn tác động đến traffic, chuyển đổi và giá trị đơn hàng.",
+      "Loại {A}, {B}, {C}: bài giảng không nêu việc bắt buộc, giảm toàn bộ chi phí hay tăng số sản phẩm được đăng."
+    ],
+    "e": "Marketing nội sàn giúp tăng traffic, chuyển đổi và giá trị đơn hàng, là phần mà việc đăng sản phẩm đơn thuần không tạo ra.",
+    "w": {
+      "A": "Bài giảng không nói sàn bắt buộc người bán dùng công cụ marketing.",
+      "B": "Marketing có chi phí, không giảm toàn bộ chi phí vận hành.",
+      "C": "Công cụ marketing không liên quan đến số sản phẩm được đăng."
+    },
+    "q": "vừa tăng traffic vừa vừa tăng chuyển đổi đồng thời lại vừa tăng cái giá trị đơn hàng",
+    "k": ["marketing nội sàn", "GMV"],
+    "n": "Transcript không nêu thẳng câu 'chỉ đăng sản phẩm là chưa đủ'. Đáp án D suy ra từ vai trò của các công cụ marketing nội sàn đối với traffic, chuyển đổi và giá trị đơn hàng."
+  },
+  {
+    "a": "B", "c": "h",
+    "h": [
+      "Nhớ lại lưu ý khi chọn sản phẩm mua kèm.",
+      "Sản phẩm mua kèm nên bổ trợ cho sản phẩm chính và có chi phí hợp lý.",
+      "Loại {A} và {C}: không phải sản phẩm nào cũng phù hợp. Loại {D}: giá cao không khuyến khích mua thêm."
+    ],
+    "e": "Sản phẩm mua kèm nên liên quan hoặc bổ trợ cho sản phẩm chính, có giá trị thấp hoặc chi phí hợp lý để khuyến khích khách mua thêm.",
+    "w": {
+      "A": "Cần chọn sản phẩm có liên quan, không phải sản phẩm bất kỳ.",
+      "C": "Bài giảng yêu cầu sản phẩm liên quan hoặc bổ trợ.",
+      "D": "Nên có giá trị thấp hoặc hợp lý, không phải giá cao."
+    },
+    "q": "nên lựa chọn những sản phẩm có liên quan hoặc là bổ trợ cho sản phẩm chính",
+    "k": ["mua kèm deal sốc", "bổ trợ"]
+  }
+]

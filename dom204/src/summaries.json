@@ -1,0 +1,80 @@
+{
+  "6": {
+    "title": "Bài 6: Xây dựng và tối ưu sản phẩm trên sàn TMĐT",
+    "summary": [
+      "Đăng sản phẩm trên Shopee gồm 5 bước: hình ảnh, thông tin sản phẩm, giá và kho hàng, đơn vị vận chuyển, hoàn tất đăng tải.",
+      "Tiêu đề không viết hoa toàn bộ, không có đánh giá chủ quan, khuyến mãi, ký tự đặc biệt và không lặp từ khóa.",
+      "Tiêu đề chuẩn SEO gồm từ khóa chính, thương hiệu, thuộc tính và từ khóa mô tả sản phẩm tốt.",
+      "Ảnh bìa tốt hình ảnh hóa đặc điểm nổi bật, tạo ấn tượng trong 1 giây, dễ nhìn dễ đọc và tối đa ba màu.",
+      "Ảnh sản phẩm dùng tỉ lệ 1:1, không để số điện thoại, website, địa chỉ, nên có logo và theo cấu trúc 5 loại ảnh.",
+      "Mô tả 3 đến 5 dòng thông tin quan trọng nhất, chia đoạn, thêm 3 đến 5 hashtag, xu hướng dùng ảnh nhiều hơn chữ.",
+      "Tránh lỗi tăng giá bất hợp lý trước khuyến mãi và các nhóm vi phạm về sản phẩm cấm, hàng giả, spam và gian lận.",
+      "Seeding tăng độ tin cậy, tỉ lệ chuyển đổi và hiển thị, nhưng hành vi gian lận có thể bị khóa vĩnh viễn."
+    ]
+  },
+  "7": {
+    "title": "Bài 7: Các chương trình marketing nội sàn và tối ưu GMV",
+    "summary": [
+      "Nhóm công cụ tăng doanh thu gồm khuyến mãi của shop, Flash Sale, mã giảm giá, combo khuyến mãi và mua kèm deal sốc.",
+      "Nhóm công cụ tăng lượt truy cập gồm quảng cáo trả phí, SEO sản phẩm, Shopee Affiliate, ưu đãi follower, Shopee Live và Shopee Video.",
+      "Flash Sale giảm giá trong khung giờ ngắn để khách quyết định nhanh. Nên chọn sản phẩm nhu cầu cao hoặc chủ lực.",
+      "Combo và mua kèm nên dùng sản phẩm liên quan, bổ trợ nhau, giá hợp lý để tăng giá trị đơn hàng.",
+      "Affiliate tính hoa hồng khi có đơn thành công. Ưu đãi follower giúp xây tệp khách hàng trung thành.",
+      "GMV là tổng giá trị hàng hóa bán ra. AOV là giá trị trung bình của một đơn hàng.",
+      "Bốn chiến lược tối ưu GMV: thu hút khách, tăng tốc doanh số bằng khuyến mãi, tăng AOV, kết hợp nhiều chương trình.",
+      "Triển khai quy mô nhỏ trước, không cài quá nhiều chương trình cùng lúc và đo lường hiệu quả từng chương trình."
+    ]
+  },
+  "8": {
+    "title": "Bài 8: Quảng cáo trả phí trên sàn TMĐT",
+    "summary": [
+      "Shopee là nền tảng người tìm hàng, TikTok Shop là hàng tìm người dựa trên sở thích.",
+      "Shopee Ads tính phí chủ yếu theo CPC, có thể tiêu hết ngân sách rất nhanh. Xếp hạng dựa vào giá thầu, điểm liên quan và hiệu suất.",
+      "Giá thầu khoán cho người mới: giá bán x %QC dự kiến x %CVR dự kiến, với giả định 20% và 2% thì bằng giá bán x 0.4%.",
+      "Đọc báo cáo qua chi phí, doanh thu và ROAS, cùng CTR và CPC thực tế.",
+      "TikTok Ads gồm In-Feed, Take over, Hashtag Challenge, Branded Effect. Nội dung quảng cáo đang bão hòa nên cần chú trọng chất lượng.",
+      "GMV Max là quảng cáo tự động dùng AI, học từ tín hiệu quảng cáo, Affiliate và Organic, learning phase thường lên tới 7 ngày.",
+      "Video trong GMV Max có các trạng thái đang chờ, đang học, đang phân phối, không phân phối. Video phân phối thì giữ, không phân phối thì thay.",
+      "ROI mục tiêu nên đặt trong một khoảng hợp lý. Đặt quá cao thì quảng cáo khó phân phối."
+    ]
+  },
+  "9": {
+    "title": "Bài 9: Tổng quan mô hình livestream trong TMĐT",
+    "summary": [
+      "Livestream bán hàng là phát video trực tiếp, giới thiệu sản phẩm và tương tác với khách theo thời gian thực.",
+      "Sức hút của livestream giải thích bằng kinh tế trải nghiệm, kinh tế chú ý, Rich Media và sự hiện diện xã hội.",
+      "Sự bùng nổ đến từ hành vi người dùng, niềm tin và tính xác thực, hạ tầng công nghệ.",
+      "Livestream dồn các pha AIDA vào một phiên và đóng vai trò kênh bán hàng, Launchpad, xả hàng tồn, xây thương hiệu, nghiên cứu thị trường.",
+      "Mô hình 5P gồm Pre-live, Production, Performance, Process, Post-live. Quy tắc 80/20: 80% thành công đến từ khâu chuẩn bị.",
+      "Pre-live trả lời 5W1H và chuẩn bị sản phẩm mồi, chủ lực, bán kèm. Production nên quay 4K, FPS 30, camera 1X.",
+      "Process cần xác nhận đơn trong 2 đến 4 giờ, đóng gói và bàn giao trong 24 đến 48 giờ.",
+      "Post-live đo các nhóm chỉ số tổng thể, tương tác, bán hàng và chi phí gồm ROAS."
+    ]
+  },
+  "10": {
+    "title": "Bài 10: Kéo traffic ngoại sàn, tối ưu GMV và Affiliate",
+    "summary": [
+      "Traffic nội sàn đến từ sàn, traffic ngoại sàn đến từ mạng xã hội, website và các nguồn khác. Nội sàn ngày càng khan hiếm và đắt.",
+      "Sàn ưu tiên gian hàng trả nhiều tiền hoặc bán tốt, nhà bán nhỏ bị đẩy ra vùng rìa. Ngoại sàn giúp tiếp cận tệp khách hàng lạnh.",
+      "Ba chiến lược kéo traffic ngoại sàn: Content và sáng tạo, quảng cáo trả phí, sở hữu kênh tự chủ.",
+      "AISAS gồm Chú ý, Quan tâm, Tìm kiếm, Hành động, Chia sẻ. Sàn đóng vai trò từ Search đến Share.",
+      "GMV tính cả đơn hủy và hoàn, là thước đo quy mô chứ không phải lợi nhuận. Tối ưu GMV = traffic x CVR x AOV.",
+      "Tăng AOV bằng cross-sell, up-sell và bundle.",
+      "Affiliate có bốn bên: nhà cung cấp, người tiếp thị, khách hàng và nền tảng. CPS là hình thức hoa hồng phổ biến nhất.",
+      "Xu hướng CLV: Content, Livestream, Video dẫn dắt Affiliate."
+    ]
+  },
+  "11": {
+    "title": "Bài 11: Vận hành, đo lường và phân tích hiệu quả",
+    "summary": [
+      "Quy trình xử lý đơn gồm 5 bước từ tiếp nhận, đóng gói, in và dán vận đơn, bàn giao đến theo dõi và hoàn tất.",
+      "Đóng gói chịu được lực rơi từ 1 m, không dán băng keo đè lên mã vận đơn, nên quay video đóng gói.",
+      "Sàn phạt khi chỉ số vận hành kém bằng cắt trợ giá, giảm hiển thị hoặc khóa shop. Có sao quả tạ trên Shopee và điểm vi phạm trên TikTok Shop.",
+      "Dữ liệu khách hàng gồm định danh, hành vi, giao dịch. Sàn che thông tin định danh để bảo vệ quyền riêng tư.",
+      "RFM phân loại khách hàng để có cách ứng xử phù hợp, ví dụ nhóm VIP, nguy cơ, tiềm năng.",
+      "CSKH có ba giai đoạn trước, trong và sau khi mua. Với đánh giá xấu, bước đầu là liên hệ trực tiếp qua chat hoặc hotline.",
+      "Xây dashboard theo hành trình khách hàng, phân biệt tỉ lệ chuyển đổi và tỉ lệ chuyển đổi đơn hàng, theo dõi CTR, AOV, tỉ lệ thoát trang.",
+      "Dùng 5 Whys, biểu đồ xương cá để tìm điểm gãy phễu và nguyên nhân gốc rễ, rồi cải tiến liên tục bằng PDCA."
+    ]
+  }
+}
